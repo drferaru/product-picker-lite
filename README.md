@@ -64,6 +64,7 @@ Better idea pattern:
 - internal link to the TikTok Shop sample unboxing shot list page
 - internal link to the TikTok Shop supplier red-flag response library page
 - internal link to the TikTok Shop defect photo checklist page
+- internal link to the TikTok Shop customer complaint response template page
 - internal upsell link to the $67 AI Product Video Test Pack page
 - schema.org Product JSON-LD with $1 offer
 - no external scripts or trackers
@@ -363,5 +364,16 @@ Latest CEO movement (2026-06-18T13:28:48Z): added and linked `tiktok-shop-produc
 - good/watch/reject supplier reply rules
 - FAQPage JSON-LD for organic snippets
 - CTA path back to defect photo checklist, supplier reply scorecard, return-risk calculator, Product Picker Lite, and the $67 AI Product Video Test Pack
+- no external scripts or trackers
+- no income claims
+
+`tiktok-shop-customer-complaint-response-template.html` includes:
+
+- long-tail SEO page for buyers searching TikTok Shop customer complaint response, refund reply, defect response, wrong-variant complaint, missing-part support, and bad-review prevention templates
+- copyable buyer response for damaged, defective, missing-part, or not-as-described complaints
+- complaint triage table that turns support tickets into reorder, supplier, listing-proof, and return-risk decisions
+- supplier escalation message for repeated customer complaints before reorder spend
+- FAQPage JSON-LD for organic snippets
+- CTA path back to Product Picker Lite, defect photo checklist, supplier replacement template, return-risk calculator, and the $67 AI Product Video Test Pack
 - no external scripts or trackers
 - no income claims

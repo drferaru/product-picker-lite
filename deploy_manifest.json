@@ -34,11 +34,12 @@
     "tiktok-shop-supplier-message-template.html",
     "tiktok-shop-supplier-red-flag-response-library.html",
     "tiktok-shop-supplier-reply-scorecard.html",
-    "tiktok-shop-video-hooks-template.html"
+    "tiktok-shop-video-hooks-template.html",
+    "tiktok-shop-customer-complaint-response-template.html"
   ],
   "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io.",
-  "updated_at_utc": "2026-06-18T15:52:53Z",
-  "last_added_page": "tiktok-shop-sample-replacement-email-template.html",
+  "updated_at_utc": "2026-06-18T16:44:00Z",
+  "last_added_page": "tiktok-shop-customer-complaint-response-template.html",
   "pages": [
     {
       "path": "tiktok-shop-product-demo-storyboard-template.html",
@@ -59,12 +60,17 @@
       "path": "tiktok-shop-defect-photo-checklist.html",
       "purpose": "TikTok Shop sample defect photo checklist and supplier replacement proof workflow before reorder or inventory spend",
       "added_utc": "2026-06-18T15:08:00Z"
+    },
+    {
+      "path": "tiktok-shop-customer-complaint-response-template.html",
+      "purpose": "TikTok Shop customer complaint response template turning support complaints into reorder, supplier escalation, listing-proof, and Product Picker Lite re-score decisions",
+      "added_utc": "2026-06-18T16:44:00Z"
     }
   ],
-  "last_updated_utc": "2026-06-18T15:08:00Z",
+  "last_updated_utc": "2026-06-18T16:44:00Z",
   "last_public_move": {
-    "path": "tiktok-shop-defect-photo-checklist.html",
-    "url": "https://drferaru.github.io/product-picker-lite/tiktok-shop-defect-photo-checklist.html",
-    "intent": "TikTok Shop defect photo checklist for damaged samples, wrong variants, packaging failures, missing parts, and supplier replacement proof"
+    "path": "tiktok-shop-customer-complaint-response-template.html",
+    "url": "https://drferaru.github.io/product-picker-lite/tiktok-shop-customer-complaint-response-template.html",
+    "intent": "TikTok Shop customer complaint response template for refund replies, wrong variants, missing parts, defect support, bad-review prevention, and reorder-risk decisions"
   }
 }

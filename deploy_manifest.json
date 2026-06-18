@@ -1,5 +1,5 @@
 {
-  "run_id": "hourly_ceo_20260618T0952Z",
+  "run_id": "hourly_ceo_20260618T1804Z",
   "created_at_utc": "2026-06-18T07:40:45.833335Z",
   "source": "/Users/loosh/clawd/socials-youtube-aiasmr/products/tiktok_shop_china_sourcing_starter_pack/product_picker_lite_github_seo_landing",
   "stage": "/Users/loosh/.hermes/autonomous_runs/hourly_ceo_20260618T074045Z/product-picker-lite-public-site",
@@ -36,10 +36,11 @@
     "tiktok-shop-supplier-reply-scorecard.html",
     "tiktok-shop-video-hooks-template.html",
     "tiktok-shop-customer-complaint-response-template.html",
-    "tiktok-shop-supplier-negotiation-script.html"
+    "tiktok-shop-supplier-negotiation-script.html",
+    "tiktok-shop-sourcing-swipe-file.html"
   ],
   "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io.",
-  "updated_at_utc": "2026-06-18T17:12:00Z",
+  "updated_at_utc": "2026-06-18T18:06:10Z",
   "last_added_page": "tiktok-shop-supplier-negotiation-script.html",
   "pages": [
     {
@@ -78,5 +79,6 @@
     "path": "tiktok-shop-supplier-negotiation-script.html",
     "url": "https://drferaru.github.io/product-picker-lite/tiktok-shop-supplier-negotiation-script.html",
     "intent": "TikTok Shop supplier negotiation script for MOQ pushback, sample price negotiation, packaging proof, defect replacement terms, lead time, and first-order risk before payment"
-  }
+  },
+  "latest_safe_action": "Added public TikTok Shop sourcing swipe file page with internal links and checkout routing."
 }

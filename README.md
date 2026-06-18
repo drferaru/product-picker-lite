@@ -66,6 +66,7 @@ Better idea pattern:
 - internal link to the TikTok Shop defect photo checklist page
 - internal link to the TikTok Shop customer complaint response template page
 - internal link to the TikTok Shop supplier negotiation script page
+- internal link to the TikTok Shop sourcing swipe file page
 - internal upsell link to the $67 AI Product Video Test Pack page
 - schema.org Product JSON-LD with $1 offer
 - no external scripts or trackers
@@ -389,3 +390,7 @@ Latest CEO movement (2026-06-18T13:28:48Z): added and linked `tiktok-shop-produc
 - CTA path back to Product Picker Lite, supplier reply scorecard, sample cost calculator, first-order calculator, demo storyboard, and the $67 AI Product Video Test Pack
 - no external scripts or trackers
 - no income claims
+
+
+Additional live buyer-intent page added 2026-06-18:
+`tiktok-shop-sourcing-swipe-file.html` - free copyable supplier, refund-risk, sample QC, and content-proof scripts routed to the $1 checkout.

@@ -57,6 +57,7 @@ Better idea pattern:
 - internal link to the TikTok Shop creator brief template page
 - internal link to the TikTok Shop first order quantity calculator page
 - internal link to the TikTok Shop listing photo checklist page
+- internal link to the TikTok Shop competitor price gap calculator page
 - internal upsell link to the $67 AI Product Video Test Pack page
 - schema.org Product JSON-LD with $1 offer
 - no external scripts or trackers
@@ -182,6 +183,16 @@ Better idea pattern:
 - launch/reshoot/reject decision table for listing photo gaps
 - FAQPage JSON-LD for organic snippets
 - CTA path back to Product Picker Lite, creator brief, video hooks, and the $67 AI Product Video Test Pack
+- no external scripts or trackers
+- no income claims
+
+`tiktok-shop-competitor-price-gap-calculator.html` includes:
+
+- long-tail SEO page for buyers searching TikTok Shop competitor pricing, price research, margin room, and price gap checks before sample orders
+- competitor price gap table covering lowest believable competitor price, first discount price, landed cost, platform/payment friction, return reserve, and content-test budget
+- copyable worksheet for checking remaining price gap before supplier outreach
+- FAQPage JSON-LD for organic snippets
+- CTA path back to Product Picker Lite, supplier message template, profit worksheet, and the $67 AI Product Video Test Pack
 - no external scripts or trackers
 - no income claims
 

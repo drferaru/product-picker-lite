@@ -26,9 +26,10 @@
     "tiktok-shop-sample-qc-checklist.html",
     "tiktok-shop-sourcing-mistakes.html",
     "tiktok-shop-supplier-message-template.html",
-    "tiktok-shop-video-hooks-template.html"
+    "tiktok-shop-video-hooks-template.html",
+    "tiktok-shop-prelaunch-checklist.html"
   ],
   "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io.",
-  "updated_at_utc": "2026-06-18T10:16:16.638022Z",
-  "last_added_page": "tiktok-shop-competitor-price-gap-calculator.html"
+  "updated_at_utc": "2026-06-18T10:58:27Z",
+  "last_added_page": "tiktok-shop-prelaunch-checklist.html"
 }

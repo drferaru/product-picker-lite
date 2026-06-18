@@ -58,6 +58,7 @@ Better idea pattern:
 - internal link to the TikTok Shop first order quantity calculator page
 - internal link to the TikTok Shop listing photo checklist page
 - internal link to the TikTok Shop competitor price gap calculator page
+- internal link to the TikTok Shop prelaunch checklist page
 - internal upsell link to the $67 AI Product Video Test Pack page
 - schema.org Product JSON-LD with $1 offer
 - no external scripts or trackers
@@ -193,6 +194,16 @@ Better idea pattern:
 - copyable worksheet for checking remaining price gap before supplier outreach
 - FAQPage JSON-LD for organic snippets
 - CTA path back to Product Picker Lite, supplier message template, profit worksheet, and the $67 AI Product Video Test Pack
+- no external scripts or trackers
+- no income claims
+
+`tiktok-shop-prelaunch-checklist.html` includes:
+
+- long-tail SEO page for buyers searching TikTok Shop prelaunch checklist, final launch checks, listing readiness, and pre-inventory gates
+- seven-row final gate covering buyer promise, sample QC, photo proof, competitor price gap, first-order cap, creator hook, and return risk
+- copyable prelaunch note for product folders before publishing or buying inventory
+- FAQPage JSON-LD for organic snippets
+- CTA path back to Product Picker Lite, sample QC, competitor price gap, video hooks, and the $67 AI Product Video Test Pack
 - no external scripts or trackers
 - no income claims
 

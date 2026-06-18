@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drferaru.github.io/product-picker-lite/sitemap.xml

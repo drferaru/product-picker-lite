@@ -1,0 +1,28 @@
+{
+  "run_id": "hourly_ceo_20260618T074045Z",
+  "created_at_utc": "2026-06-18T07:40:45.833335Z",
+  "source": "/Users/loosh/clawd/socials-youtube-aiasmr/products/tiktok_shop_china_sourcing_starter_pack/product_picker_lite_github_seo_landing",
+  "stage": "/Users/loosh/.hermes/autonomous_runs/hourly_ceo_20260618T074045Z/product-picker-lite-public-site",
+  "public_target": "https://drferaru.github.io/product-picker-lite/",
+  "files": [
+    ".nojekyll",
+    "README.md",
+    "ai-product-video-test-pack-demo.html",
+    "ai-product-video-test-pack-intake.html",
+    "ai-product-video-test-pack.html",
+    "index.html",
+    "robots.txt",
+    "sitemap.xml",
+    "tiktok-shop-compliance-risk-checklist.html",
+    "tiktok-shop-creator-brief-template.html",
+    "tiktok-shop-product-research-template.html",
+    "tiktok-shop-product-validation-checklist.html",
+    "tiktok-shop-profit-calculator-worksheet.html",
+    "tiktok-shop-return-risk-calculator.html",
+    "tiktok-shop-sample-qc-checklist.html",
+    "tiktok-shop-sourcing-mistakes.html",
+    "tiktok-shop-supplier-message-template.html",
+    "tiktok-shop-video-hooks-template.html"
+  ],
+  "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io."
+}

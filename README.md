@@ -56,6 +56,7 @@ Better idea pattern:
 - internal link to the TikTok Shop compliance risk checklist page
 - internal link to the TikTok Shop creator brief template page
 - internal link to the TikTok Shop first order quantity calculator page
+- internal link to the TikTok Shop listing photo checklist page
 - internal upsell link to the $67 AI Product Video Test Pack page
 - schema.org Product JSON-LD with $1 offer
 - no external scripts or trackers
@@ -174,6 +175,16 @@ Better idea pattern:
 - no external scripts or trackers
 - no income claims
 
+`tiktok-shop-listing-photo-checklist.html` includes:
+
+- long-tail SEO page for buyers searching TikTok Shop listing photos, product photo checklist, scale shots, thumbnails, and pre-launch product proof
+- listing photo proof table covering main image, scale shot, detail shot, variant/bundle shot, use-case proof, and risk-disclosure photos
+- launch/reshoot/reject decision table for listing photo gaps
+- FAQPage JSON-LD for organic snippets
+- CTA path back to Product Picker Lite, creator brief, video hooks, and the $67 AI Product Video Test Pack
+- no external scripts or trackers
+- no income claims
+
 `ai-product-video-test-pack-demo.html` includes:
 
 - buyer-facing sample output for the $67 AI Product Video Test Pack
@@ -212,6 +223,8 @@ Contact CTA on video pack landing page: `lucian@drferaru.com` with subject `AI P
 ---
 
 ## Latest conversion/reach update
+
+2026-06-18T09:45Z: added a new public-ready listing photo checklist page: `tiktok-shop-listing-photo-checklist.html`. The page targets TikTok Shop listing photo / product photo checklist / scale-shot / pre-launch proof searches, gives a copyable photo proof table plus launch/reshoot/reject decision rule, includes FAQPage JSON-LD, and routes buyers from the `$1 Product Picker Lite` scorecard into creator brief, video hooks, and the `$67 AI Product Video Test Pack` path. Linked it from `index.html` and added it to `sitemap.xml`.
 
 2026-06-18T06:53Z: added a new public-ready creator brief template page: `tiktok-shop-creator-brief-template.html`. The page targets TikTok Shop creator brief / UGC brief / short-form product video test searches, gives a copyable brief template, includes a worked desk-cable-organizer example and FAQPage JSON-LD, and routes buyers from the `$1 Product Picker Lite` scorecard into the `$67 AI Product Video Test Pack` path. Linked it from `index.html` and added it to `sitemap.xml`.
 

@@ -60,6 +60,7 @@ Better idea pattern:
 - internal link to the TikTok Shop competitor price gap calculator page
 - internal link to the TikTok Shop prelaunch checklist page
 - internal link to the TikTok Shop launch budget calculator page
+- internal link to the TikTok Shop supplier reply scorecard page
 - internal upsell link to the $67 AI Product Video Test Pack page
 - schema.org Product JSON-LD with $1 offer
 - no external scripts or trackers
@@ -208,6 +209,16 @@ Better idea pattern:
 - no external scripts or trackers
 - no income claims
 
+`tiktok-shop-supplier-reply-scorecard.html` includes:
+
+- long-tail SEO page for buyers searching how to judge TikTok Shop supplier replies, MOQ pressure, sample payment risk, packaging proof, and defect-policy clarity
+- six-row supplier reply scorecard covering landed sample cost, MOQ pressure, packaging proof, defect policy, variant clarity, and content-test permission
+- copyable product-folder decision note for sample / follow-up / reject decisions before payment
+- FAQPage JSON-LD for organic snippets
+- CTA path back to Product Picker Lite, supplier message template, sample cost calculator, sample QC checklist, and the $67 AI Product Video Test Pack
+- no external scripts or trackers
+- no income claims
+
 `ai-product-video-test-pack-demo.html` includes:
 
 - buyer-facing sample output for the $67 AI Product Video Test Pack
@@ -246,6 +257,8 @@ Contact CTA on video pack landing page: `lucian@drferaru.com` with subject `AI P
 ---
 
 ## Latest conversion/reach update
+
+2026-06-18T12:08Z: added a new public buyer-facing supplier reply scorecard page: `tiktok-shop-supplier-reply-scorecard.html`. The page targets searches around TikTok Shop supplier reply, MOQ pressure, sample payment risk, packaging proof, defect policy, and supplier clarity before sample payment. It gives a six-row reply scorecard, copyable product-folder decision note, FAQPage JSON-LD, and routes buyers from the first supplier answer into the `$1 Product Picker Lite` scorecard, sample-cost calculator, sample QC checklist, and `$67 AI Product Video Test Pack` path. Linked it from `index.html` and added it to `sitemap.xml`.
 
 2026-06-18T09:45Z: added a new public-ready listing photo checklist page: `tiktok-shop-listing-photo-checklist.html`. The page targets TikTok Shop listing photo / product photo checklist / scale-shot / pre-launch proof searches, gives a copyable photo proof table plus launch/reshoot/reject decision rule, includes FAQPage JSON-LD, and routes buyers from the `$1 Product Picker Lite` scorecard into creator brief, video hooks, and the `$67 AI Product Video Test Pack` path. Linked it from `index.html` and added it to `sitemap.xml`.
 

@@ -1,5 +1,5 @@
 {
-  "run_id": "hourly_ceo_20260618T1804Z",
+  "run_id": "first_dollar_execute_20260618T1823Z",
   "created_at_utc": "2026-06-18T07:40:45.833335Z",
   "source": "/Users/loosh/clawd/socials-youtube-aiasmr/products/tiktok_shop_china_sourcing_starter_pack/product_picker_lite_github_seo_landing",
   "stage": "/Users/loosh/.hermes/autonomous_runs/hourly_ceo_20260618T074045Z/product-picker-lite-public-site",
@@ -37,11 +37,12 @@
     "tiktok-shop-video-hooks-template.html",
     "tiktok-shop-customer-complaint-response-template.html",
     "tiktok-shop-supplier-negotiation-script.html",
-    "tiktok-shop-sourcing-swipe-file.html"
+    "tiktok-shop-sourcing-swipe-file.html",
+    "tiktok-shop-ugc-video-test-plan.html"
   ],
   "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io.",
-  "updated_at_utc": "2026-06-18T18:06:10Z",
-  "last_added_page": "tiktok-shop-supplier-negotiation-script.html",
+  "updated_at_utc": "2026-06-18T18:23:00Z",
+  "last_added_page": "tiktok-shop-ugc-video-test-plan.html",
   "pages": [
     {
       "path": "tiktok-shop-product-demo-storyboard-template.html",
@@ -72,13 +73,23 @@
       "path": "tiktok-shop-supplier-negotiation-script.html",
       "purpose": "TikTok Shop supplier negotiation script for MOQ pushback, sample price, packaging proof, defect terms, and proof-batch first-order decisions before money leaves",
       "added_utc": "2026-06-18T17:12:00Z"
+    },
+    {
+      "path": "tiktok-shop-sourcing-swipe-file.html",
+      "purpose": "TikTok Shop sourcing swipe file with supplier, refund-risk, sample QC, and content-proof scripts routed to the Product Picker Lite checkout",
+      "added_utc": "2026-06-18T18:06:10Z"
+    },
+    {
+      "path": "tiktok-shop-ugc-video-test-plan.html",
+      "purpose": "TikTok Shop UGC video test plan for mapping a validated product into problem-proof, demo-proof, and objection-proof short-form content tests before creator or production spend",
+      "added_utc": "2026-06-18T18:23:00Z"
     }
   ],
-  "last_updated_utc": "2026-06-18T17:12:00Z",
+  "last_updated_utc": "2026-06-18T18:23:00Z",
   "last_public_move": {
-    "path": "tiktok-shop-supplier-negotiation-script.html",
-    "url": "https://drferaru.github.io/product-picker-lite/tiktok-shop-supplier-negotiation-script.html",
-    "intent": "TikTok Shop supplier negotiation script for MOQ pushback, sample price negotiation, packaging proof, defect replacement terms, lead time, and first-order risk before payment"
+    "path": "tiktok-shop-ugc-video-test-plan.html",
+    "url": "https://drferaru.github.io/product-picker-lite/tiktok-shop-ugc-video-test-plan.html",
+    "intent": "TikTok Shop UGC video test plan, creator content plan, and product video testing gate bridging Product Picker Lite into the AI Product Video Test Pack"
   },
-  "latest_safe_action": "Added public TikTok Shop sourcing swipe file page with internal links and checkout routing."
+  "latest_safe_action": "Added public TikTok Shop UGC video test plan page with internal links, sitemap entry, and checkout/upsell routing."
 }

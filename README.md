@@ -67,6 +67,7 @@ Better idea pattern:
 - internal link to the TikTok Shop customer complaint response template page
 - internal link to the TikTok Shop supplier negotiation script page
 - internal link to the TikTok Shop sourcing swipe file page
+- internal link to the TikTok Shop UGC video test plan page
 - internal upsell link to the $67 AI Product Video Test Pack page
 - schema.org Product JSON-LD with $1 offer
 - no external scripts or trackers
@@ -274,6 +275,8 @@ Contact CTA on video pack landing page: `lucian@drferaru.com` with subject `AI P
 
 ## Latest conversion/reach update
 
+2026-06-18T18:23Z: added a new public buyer-facing UGC video test plan page: `tiktok-shop-ugc-video-test-plan.html`. The page targets TikTok Shop UGC video test / product video test / creator content plan searches, gives a copyable three-angle test plan with pass signals and reject rule, includes a worked travel organizer example, and routes qualified buyers into the `$1 Product Picker Lite` scorecard and `$67 AI Product Video Test Pack`. Linked it from `index.html` and added it to `sitemap.xml`.
+
 2026-06-18T15:55Z: added a new public-ready sample replacement email template page: `tiktok-shop-sample-replacement-email-template.html`. The page targets TikTok Shop sample replacement / supplier defect email / wrong variant follow-up searches, gives a copyable replacement/refund request, classifies supplier replies into good/watch/reject, and routes buyers back to the `$1 Product Picker Lite` scorecard before reorder spend. Linked it from `index.html` and added it to `sitemap.xml`.
 
 2026-06-18T14:31Z: added a new public buyer-facing supplier red-flag response library page: `tiktok-shop-supplier-red-flag-response-library.html`. The page targets searches around what to say when a TikTok Shop supplier gives vague MOQ, shipping, sample, packaging, variant, or defect-policy answers. It gives a five-row response library, copyable second-message template, FAQPage JSON-LD, and routes buyers from supplier friction into the `$1 Product Picker Lite` scorecard, sample-cost calculator, supplier reply scorecard, and sample QC path. Linked it from `index.html` and added it to `sitemap.xml`.
@@ -394,3 +397,13 @@ Latest CEO movement (2026-06-18T13:28:48Z): added and linked `tiktok-shop-produc
 
 Additional live buyer-intent page added 2026-06-18:
 `tiktok-shop-sourcing-swipe-file.html` - free copyable supplier, refund-risk, sample QC, and content-proof scripts routed to the $1 checkout.
+
+`tiktok-shop-ugc-video-test-plan.html` includes:
+
+- long-tail SEO page for buyers searching TikTok Shop UGC video test plan, product video test, creator content plan, and short-form production gates
+- copyable three-angle video test plan covering problem proof, demo proof, objection proof, claim limits, CTA, pass signals, and reject rule
+- worked travel pill organizer example with first frame, script direction, and pass signal
+- FAQPage JSON-LD for organic snippets
+- CTA path back to Product Picker Lite, the $67 AI Product Video Test Pack, sample output, and intake brief
+- no external scripts or trackers
+- no income claims

@@ -1,5 +1,5 @@
 {
-  "run_id": "hourly_ceo_20260618T074045Z",
+  "run_id": "hourly_ceo_20260618T0952Z",
   "created_at_utc": "2026-06-18T07:40:45.833335Z",
   "source": "/Users/loosh/clawd/socials-youtube-aiasmr/products/tiktok_shop_china_sourcing_starter_pack/product_picker_lite_github_seo_landing",
   "stage": "/Users/loosh/.hermes/autonomous_runs/hourly_ceo_20260618T074045Z/product-picker-lite-public-site",
@@ -21,10 +21,13 @@
     "tiktok-shop-product-validation-checklist.html",
     "tiktok-shop-profit-calculator-worksheet.html",
     "tiktok-shop-return-risk-calculator.html",
+    "tiktok-shop-sample-cost-calculator.html",
     "tiktok-shop-sample-qc-checklist.html",
     "tiktok-shop-sourcing-mistakes.html",
     "tiktok-shop-supplier-message-template.html",
     "tiktok-shop-video-hooks-template.html"
   ],
-  "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io."
+  "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io.",
+  "updated_at_utc": "2026-06-18T09:54:39.882680Z",
+  "last_added_page": "tiktok-shop-sample-cost-calculator.html"
 }

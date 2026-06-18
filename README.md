@@ -272,3 +272,4 @@ Publish target remains this owned static folder:
    `/Users/loosh/.hermes/autonomous_runs/first_dollar_sample_run_pack_20260617T160636Z/Product_Picker_Lite_Sample_Run_Pack_20260617T160636Z.zip`
 
 No income guarantees. Educational planning only.
+- `tiktok-shop-sample-cost-calculator.html` - TikTok Shop sample cost calculator and pre-supplier-payment spend gate.

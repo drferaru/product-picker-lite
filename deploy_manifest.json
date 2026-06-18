@@ -31,11 +31,12 @@
     "tiktok-shop-launch-budget-calculator.html",
     "tiktok-shop-supplier-reply-scorecard.html",
     "tiktok-shop-product-demo-storyboard-template.html",
-    "tiktok-shop-sample-unboxing-shot-list.html"
+    "tiktok-shop-sample-unboxing-shot-list.html",
+    "tiktok-shop-supplier-red-flag-response-library.html"
   ],
   "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io.",
-  "updated_at_utc": "2026-06-18T13:25:00Z",
-  "last_added_page": "tiktok-shop-sample-unboxing-shot-list.html",
+  "updated_at_utc": "2026-06-18T14:31:00Z",
+  "last_added_page": "tiktok-shop-supplier-red-flag-response-library.html",
   "pages": [
     {
       "path": "tiktok-shop-product-demo-storyboard-template.html",
@@ -46,12 +47,17 @@
       "path": "tiktok-shop-sample-unboxing-shot-list.html",
       "purpose": "TikTok Shop sample unboxing proof-shot checklist bridging sample QC to Product Picker Lite and the AI Product Video Test Pack",
       "added_utc": "2026-06-18T13:25:00Z"
+    },
+    {
+      "path": "tiktok-shop-supplier-red-flag-response-library.html",
+      "purpose": "TikTok Shop supplier red-flag response library and copyable pushback scripts before sample payment",
+      "added_utc": "2026-06-18T14:31:00Z"
     }
   ],
-  "last_updated_utc": "2026-06-18T13:25:00Z",
+  "last_updated_utc": "2026-06-18T14:31:00Z",
   "last_public_move": {
-    "path": "tiktok-shop-sample-unboxing-shot-list.html",
-    "url": "https://drferaru.github.io/product-picker-lite/tiktok-shop-sample-unboxing-shot-list.html",
-    "intent": "TikTok Shop sample unboxing proof shots and pre-launch video test planning"
+    "path": "tiktok-shop-supplier-red-flag-response-library.html",
+    "url": "https://drferaru.github.io/product-picker-lite/tiktok-shop-supplier-red-flag-response-library.html",
+    "intent": "TikTok Shop supplier red-flag responses for vague MOQ, sample shipping, packaging, variant, and defect-policy answers"
   }
 }

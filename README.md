@@ -62,6 +62,7 @@ Better idea pattern:
 - internal link to the TikTok Shop launch budget calculator page
 - internal link to the TikTok Shop supplier reply scorecard page
 - internal link to the TikTok Shop sample unboxing shot list page
+- internal link to the TikTok Shop supplier red-flag response library page
 - internal upsell link to the $67 AI Product Video Test Pack page
 - schema.org Product JSON-LD with $1 offer
 - no external scripts or trackers
@@ -268,6 +269,8 @@ Contact CTA on video pack landing page: `lucian@drferaru.com` with subject `AI P
 ---
 
 ## Latest conversion/reach update
+
+2026-06-18T14:31Z: added a new public buyer-facing supplier red-flag response library page: `tiktok-shop-supplier-red-flag-response-library.html`. The page targets searches around what to say when a TikTok Shop supplier gives vague MOQ, shipping, sample, packaging, variant, or defect-policy answers. It gives a five-row response library, copyable second-message template, FAQPage JSON-LD, and routes buyers from supplier friction into the `$1 Product Picker Lite` scorecard, sample-cost calculator, supplier reply scorecard, and sample QC path. Linked it from `index.html` and added it to `sitemap.xml`.
 
 2026-06-18T13:25Z: added a new public buyer-facing sample unboxing shot list page: `tiktok-shop-sample-unboxing-shot-list.html`. The page targets searches around TikTok Shop sample unboxing, what to film when a product sample arrives, scale shots, defect closeups, and pre-launch video proof. It gives a seven-row proof-shot checklist, copyable sample-folder decision note, FAQPage JSON-LD, and routes buyers from sample evidence into the `$1 Product Picker Lite` scorecard, sample QC checklist, video hooks template, prelaunch checklist, and `$67 AI Product Video Test Pack` path. Linked it from `index.html` and added it to `sitemap.xml`.
 

@@ -321,3 +321,8 @@ No income guarantees. Educational planning only.
 - no external scripts or trackers
 - no income claims
 
+
+## Public page inventory
+- `tiktok-shop-product-demo-storyboard-template.html` - TikTok Shop product demo storyboard template for turning one product idea into three short-form proof angles before sample or production spend.
+
+Latest CEO movement (2026-06-18T13:28:48Z): added and linked `tiktok-shop-product-demo-storyboard-template.html` as a public reach page for video-demo/storyboard search intent, bridging the $1 scorecard into the $67 AI Product Video Test Pack.

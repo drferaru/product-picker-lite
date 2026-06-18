@@ -38,11 +38,12 @@
     "tiktok-shop-customer-complaint-response-template.html",
     "tiktok-shop-supplier-negotiation-script.html",
     "tiktok-shop-sourcing-swipe-file.html",
-    "tiktok-shop-ugc-video-test-plan.html"
+    "tiktok-shop-ugc-video-test-plan.html",
+    "tiktok-shop-ai-product-video-prompt-pack.html"
   ],
   "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io.",
-  "updated_at_utc": "2026-06-18T18:23:00Z",
-  "last_added_page": "tiktok-shop-ugc-video-test-plan.html",
+  "updated_at_utc": "2026-06-18T19:22:45Z",
+  "last_added_page": "tiktok-shop-ai-product-video-prompt-pack.html",
   "pages": [
     {
       "path": "tiktok-shop-product-demo-storyboard-template.html",
@@ -83,13 +84,18 @@
       "path": "tiktok-shop-ugc-video-test-plan.html",
       "purpose": "TikTok Shop UGC video test plan for mapping a validated product into problem-proof, demo-proof, and objection-proof short-form content tests before creator or production spend",
       "added_utc": "2026-06-18T18:23:00Z"
+    },
+    {
+      "path": "tiktok-shop-ai-product-video-prompt-pack.html",
+      "purpose": "TikTok Shop AI product video prompt pack with safe spec ad, UGC-style demo, and objection-proof clip prompts routed to the 7 AI Product Video Test Pack",
+      "added_utc": "2026-06-18T19:22:45Z"
     }
   ],
-  "last_updated_utc": "2026-06-18T18:23:00Z",
+  "last_updated_utc": "2026-06-18T19:22:45Z",
   "last_public_move": {
-    "path": "tiktok-shop-ugc-video-test-plan.html",
-    "url": "https://drferaru.github.io/product-picker-lite/tiktok-shop-ugc-video-test-plan.html",
-    "intent": "TikTok Shop UGC video test plan, creator content plan, and product video testing gate bridging Product Picker Lite into the AI Product Video Test Pack"
+    "path": "tiktok-shop-ai-product-video-prompt-pack.html",
+    "url": "https://drferaru.github.io/product-picker-lite/tiktok-shop-ai-product-video-prompt-pack.html",
+    "intent": "TikTok Shop AI product video prompt pack for safe spec ad, UGC-style demo, and objection-proof creative prompts bridging Product Picker Lite into the AI Product Video Test Pack"
   },
-  "latest_safe_action": "Added public TikTok Shop UGC video test plan page with internal links, sitemap entry, and checkout/upsell routing."
+  "latest_safe_action": "Added public TikTok Shop AI product video prompt pack page with internal links, sitemap entry, and 7 offer routing."
 }

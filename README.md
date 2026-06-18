@@ -68,6 +68,7 @@ Better idea pattern:
 - internal link to the TikTok Shop supplier negotiation script page
 - internal link to the TikTok Shop sourcing swipe file page
 - internal link to the TikTok Shop UGC video test plan page
+- internal link to the TikTok Shop AI product video prompt pack page
 - internal upsell link to the $67 AI Product Video Test Pack page
 - schema.org Product JSON-LD with $1 offer
 - no external scripts or trackers
@@ -275,6 +276,8 @@ Contact CTA on video pack landing page: `lucian@drferaru.com` with subject `AI P
 
 ## Latest conversion/reach update
 
+2026-06-18T18:40Z: added a new public buyer-facing AI product video prompt pack page: `tiktok-shop-ai-product-video-prompt-pack.html`. The page targets TikTok Shop AI product video prompts / AI ad prompts / UGC-style demo prompt searches, gives copyable spec ad, demo, and objection-proof prompts with safety boundaries, and routes qualified buyers into the `$67 AI Product Video Test Pack`. Linked it from `index.html` and added it to `sitemap.xml`.
+
 2026-06-18T18:23Z: added a new public buyer-facing UGC video test plan page: `tiktok-shop-ugc-video-test-plan.html`. The page targets TikTok Shop UGC video test / product video test / creator content plan searches, gives a copyable three-angle test plan with pass signals and reject rule, includes a worked travel organizer example, and routes qualified buyers into the `$1 Product Picker Lite` scorecard and `$67 AI Product Video Test Pack`. Linked it from `index.html` and added it to `sitemap.xml`.
 
 2026-06-18T15:55Z: added a new public-ready sample replacement email template page: `tiktok-shop-sample-replacement-email-template.html`. The page targets TikTok Shop sample replacement / supplier defect email / wrong variant follow-up searches, gives a copyable replacement/refund request, classifies supplier replies into good/watch/reject, and routes buyers back to the `$1 Product Picker Lite` scorecard before reorder spend. Linked it from `index.html` and added it to `sitemap.xml`.
@@ -407,3 +410,13 @@ Additional live buyer-intent page added 2026-06-18:
 - CTA path back to Product Picker Lite, the $67 AI Product Video Test Pack, sample output, and intake brief
 - no external scripts or trackers
 - no income claims
+
+`tiktok-shop-ai-product-video-prompt-pack.html` includes:
+
+- long-tail SEO page for buyers searching TikTok Shop AI product video prompts, AI ad prompts, UGC-style demo prompts, and product video generation prompts
+- copyable prompt pack covering spec ad, UGC-style demo, objection-proof clip, claim boundaries, proof requirements, and reject rules
+- worked desk cable organizer example with first frame, prompt direction, and pass signal
+- FAQPage JSON-LD for organic snippets
+- CTA path back to Product Picker Lite, the $67 AI Product Video Test Pack, sample output, and intake brief
+- no external scripts or trackers
+- no fake reviews, unsupported product claims, or income claims

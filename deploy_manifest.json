@@ -29,22 +29,29 @@
     "tiktok-shop-video-hooks-template.html",
     "tiktok-shop-prelaunch-checklist.html",
     "tiktok-shop-launch-budget-calculator.html",
-    "tiktok-shop-supplier-reply-scorecard.html"
+    "tiktok-shop-supplier-reply-scorecard.html",
+    "tiktok-shop-product-demo-storyboard-template.html",
+    "tiktok-shop-sample-unboxing-shot-list.html"
   ],
   "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io.",
-  "updated_at_utc": "2026-06-18T12:08:00Z",
-  "last_added_page": "tiktok-shop-supplier-reply-scorecard.html",
+  "updated_at_utc": "2026-06-18T13:25:00Z",
+  "last_added_page": "tiktok-shop-sample-unboxing-shot-list.html",
   "pages": [
     {
       "path": "tiktok-shop-product-demo-storyboard-template.html",
       "purpose": "TikTok Shop product demo storyboard template bridging Product Picker Lite to the AI Product Video Test Pack",
       "added_utc": "2026-06-18T13:28:48Z"
+    },
+    {
+      "path": "tiktok-shop-sample-unboxing-shot-list.html",
+      "purpose": "TikTok Shop sample unboxing proof-shot checklist bridging sample QC to Product Picker Lite and the AI Product Video Test Pack",
+      "added_utc": "2026-06-18T13:25:00Z"
     }
   ],
-  "last_updated_utc": "2026-06-18T13:28:48Z",
+  "last_updated_utc": "2026-06-18T13:25:00Z",
   "last_public_move": {
-    "path": "tiktok-shop-product-demo-storyboard-template.html",
-    "url": "https://drferaru.github.io/product-picker-lite/tiktok-shop-product-demo-storyboard-template.html",
-    "intent": "TikTok Shop demo storyboard and first product video test planning"
+    "path": "tiktok-shop-sample-unboxing-shot-list.html",
+    "url": "https://drferaru.github.io/product-picker-lite/tiktok-shop-sample-unboxing-shot-list.html",
+    "intent": "TikTok Shop sample unboxing proof shots and pre-launch video test planning"
   }
 }

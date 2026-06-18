@@ -32,11 +32,12 @@
     "tiktok-shop-supplier-reply-scorecard.html",
     "tiktok-shop-product-demo-storyboard-template.html",
     "tiktok-shop-sample-unboxing-shot-list.html",
-    "tiktok-shop-supplier-red-flag-response-library.html"
+    "tiktok-shop-supplier-red-flag-response-library.html",
+    "tiktok-shop-defect-photo-checklist.html"
   ],
   "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io.",
-  "updated_at_utc": "2026-06-18T14:31:00Z",
-  "last_added_page": "tiktok-shop-supplier-red-flag-response-library.html",
+  "updated_at_utc": "2026-06-18T15:08:00Z",
+  "last_added_page": "tiktok-shop-defect-photo-checklist.html",
   "pages": [
     {
       "path": "tiktok-shop-product-demo-storyboard-template.html",
@@ -52,12 +53,17 @@
       "path": "tiktok-shop-supplier-red-flag-response-library.html",
       "purpose": "TikTok Shop supplier red-flag response library and copyable pushback scripts before sample payment",
       "added_utc": "2026-06-18T14:31:00Z"
+    },
+    {
+      "path": "tiktok-shop-defect-photo-checklist.html",
+      "purpose": "TikTok Shop sample defect photo checklist and supplier replacement proof workflow before reorder or inventory spend",
+      "added_utc": "2026-06-18T15:08:00Z"
     }
   ],
-  "last_updated_utc": "2026-06-18T14:31:00Z",
+  "last_updated_utc": "2026-06-18T15:08:00Z",
   "last_public_move": {
-    "path": "tiktok-shop-supplier-red-flag-response-library.html",
-    "url": "https://drferaru.github.io/product-picker-lite/tiktok-shop-supplier-red-flag-response-library.html",
-    "intent": "TikTok Shop supplier red-flag responses for vague MOQ, sample shipping, packaging, variant, and defect-policy answers"
+    "path": "tiktok-shop-defect-photo-checklist.html",
+    "url": "https://drferaru.github.io/product-picker-lite/tiktok-shop-defect-photo-checklist.html",
+    "intent": "TikTok Shop defect photo checklist for damaged samples, wrong variants, packaging failures, missing parts, and supplier replacement proof"
   }
 }

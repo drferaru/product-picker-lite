@@ -63,6 +63,7 @@ Better idea pattern:
 - internal link to the TikTok Shop supplier reply scorecard page
 - internal link to the TikTok Shop sample unboxing shot list page
 - internal link to the TikTok Shop supplier red-flag response library page
+- internal link to the TikTok Shop defect photo checklist page
 - internal upsell link to the $67 AI Product Video Test Pack page
 - schema.org Product JSON-LD with $1 offer
 - no external scripts or trackers
@@ -342,3 +343,13 @@ No income guarantees. Educational planning only.
 - `tiktok-shop-product-demo-storyboard-template.html` - TikTok Shop product demo storyboard template for turning one product idea into three short-form proof angles before sample or production spend.
 
 Latest CEO movement (2026-06-18T13:28:48Z): added and linked `tiktok-shop-product-demo-storyboard-template.html` as a public reach page for video-demo/storyboard search intent, bridging the $1 scorecard into the $67 AI Product Video Test Pack.
+
+`tiktok-shop-defect-photo-checklist.html` includes:
+
+- long-tail SEO page for buyers searching TikTok Shop sample defect photos, damaged samples, wrong variants, missing parts, packaging failure, and supplier replacement proof
+- 9-shot sample defect proof checklist covering outer package, full product, close defect, scale reference, function test, variant mismatch, packaging fix area, return-risk frame, and clean comparison
+- copyable supplier defect follow-up message before replacement, refund, or reorder decisions
+- supplier answer decision table routing buyers to sample QC, return-risk, supplier red-flag responses, first-order calculator, Product Picker Lite, and the $67 AI Product Video Test Pack
+- FAQPage JSON-LD for organic snippets
+- no external scripts or trackers
+- no income claims

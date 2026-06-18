@@ -271,6 +271,8 @@ Contact CTA on video pack landing page: `lucian@drferaru.com` with subject `AI P
 
 ## Latest conversion/reach update
 
+2026-06-18T15:55Z: added a new public-ready sample replacement email template page: `tiktok-shop-sample-replacement-email-template.html`. The page targets TikTok Shop sample replacement / supplier defect email / wrong variant follow-up searches, gives a copyable replacement/refund request, classifies supplier replies into good/watch/reject, and routes buyers back to the `$1 Product Picker Lite` scorecard before reorder spend. Linked it from `index.html` and added it to `sitemap.xml`.
+
 2026-06-18T14:31Z: added a new public buyer-facing supplier red-flag response library page: `tiktok-shop-supplier-red-flag-response-library.html`. The page targets searches around what to say when a TikTok Shop supplier gives vague MOQ, shipping, sample, packaging, variant, or defect-policy answers. It gives a five-row response library, copyable second-message template, FAQPage JSON-LD, and routes buyers from supplier friction into the `$1 Product Picker Lite` scorecard, sample-cost calculator, supplier reply scorecard, and sample QC path. Linked it from `index.html` and added it to `sitemap.xml`.
 
 2026-06-18T13:25Z: added a new public buyer-facing sample unboxing shot list page: `tiktok-shop-sample-unboxing-shot-list.html`. The page targets searches around TikTok Shop sample unboxing, what to film when a product sample arrives, scale shots, defect closeups, and pre-launch video proof. It gives a seven-row proof-shot checklist, copyable sample-folder decision note, FAQPage JSON-LD, and routes buyers from sample evidence into the `$1 Product Picker Lite` scorecard, sample QC checklist, video hooks template, prelaunch checklist, and `$67 AI Product Video Test Pack` path. Linked it from `index.html` and added it to `sitemap.xml`.
@@ -351,5 +353,15 @@ Latest CEO movement (2026-06-18T13:28:48Z): added and linked `tiktok-shop-produc
 - copyable supplier defect follow-up message before replacement, refund, or reorder decisions
 - supplier answer decision table routing buyers to sample QC, return-risk, supplier red-flag responses, first-order calculator, Product Picker Lite, and the $67 AI Product Video Test Pack
 - FAQPage JSON-LD for organic snippets
+- no external scripts or trackers
+- no income claims
+
+`tiktok-shop-sample-replacement-email-template.html` includes:
+
+- long-tail SEO page for buyers searching sample replacement email, supplier replacement request, defect reply, and wrong-variant follow-up templates
+- copyable supplier replacement/refund request message
+- good/watch/reject supplier reply rules
+- FAQPage JSON-LD for organic snippets
+- CTA path back to defect photo checklist, supplier reply scorecard, return-risk calculator, Product Picker Lite, and the $67 AI Product Video Test Pack
 - no external scripts or trackers
 - no income claims

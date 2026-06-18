@@ -59,6 +59,7 @@ Better idea pattern:
 - internal link to the TikTok Shop listing photo checklist page
 - internal link to the TikTok Shop competitor price gap calculator page
 - internal link to the TikTok Shop prelaunch checklist page
+- internal link to the TikTok Shop launch budget calculator page
 - internal upsell link to the $67 AI Product Video Test Pack page
 - schema.org Product JSON-LD with $1 offer
 - no external scripts or trackers
@@ -295,3 +296,15 @@ Publish target remains this owned static folder:
 
 No income guarantees. Educational planning only.
 - `tiktok-shop-sample-cost-calculator.html` - TikTok Shop sample cost calculator and pre-supplier-payment spend gate.
+
+
+`tiktok-shop-launch-budget-calculator.html` includes:
+
+- long-tail SEO page for buyers searching TikTok Shop launch budget, startup cost, sample spend, content test cost, and first inventory budget
+- worksheet for sample/shipping, QC buffer, listing proof, content test, return reserve, first proof batch, and stop-loss cap
+- copyable budget note for deciding sample / fix / reject before supplier payment
+- FAQPage JSON-LD for organic snippets
+- CTA path back to Product Picker Lite, prelaunch checklist, video hooks template, and the $67 AI Product Video Test Pack
+- no external scripts or trackers
+- no income claims
+

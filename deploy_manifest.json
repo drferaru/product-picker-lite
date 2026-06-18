@@ -27,9 +27,10 @@
     "tiktok-shop-sourcing-mistakes.html",
     "tiktok-shop-supplier-message-template.html",
     "tiktok-shop-video-hooks-template.html",
-    "tiktok-shop-prelaunch-checklist.html"
+    "tiktok-shop-prelaunch-checklist.html",
+    "tiktok-shop-launch-budget-calculator.html"
   ],
   "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io.",
-  "updated_at_utc": "2026-06-18T10:58:27Z",
-  "last_added_page": "tiktok-shop-prelaunch-checklist.html"
+  "updated_at_utc": "2026-06-18T11:51:45Z",
+  "last_added_page": "tiktok-shop-launch-budget-calculator.html"
 }

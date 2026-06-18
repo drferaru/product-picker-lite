@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TikTok Shop Launch Budget Calculator | First test spend gate</title>
+  <meta name="description" content="A free TikTok Shop launch budget calculator for capping sample, QC, photo, creator, return, and first-order spend before a product test gets expensive.">
+  <link rel="canonical" href="https://drferaru.github.io/product-picker-lite/tiktok-shop-launch-budget-calculator.html">
+  <meta property="og:title" content="TikTok Shop Launch Budget Calculator">
+  <meta property="og:description" content="Cap the first TikTok Shop product test before samples, creators, photos, returns, and inventory turn into a blind spend pile.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://drferaru.github.io/product-picker-lite/tiktok-shop-launch-budget-calculator.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <style>
+    :root { color-scheme: light; --ink:#101417; --muted:#56616b; --line:#dce3ea; --bg:#f7fafc; --card:#ffffff; --accent:#0f766e; --accent2:#111827; --soft:#ecfdf5; --warn:#fff7ed; }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background:var(--bg); color:var(--ink); line-height:1.55; }
+    .wrap { max-width:1080px; margin:0 auto; padding:28px 18px 48px; }
+    .hero { display:grid; grid-template-columns:minmax(0,1.1fr) minmax(280px,.9fr); gap:22px; align-items:stretch; }
+    .panel { background:var(--card); border:1px solid var(--line); border-radius:24px; padding:28px; box-shadow:0 18px 45px rgba(15,23,42,.06); }
+    .eyebrow { color:var(--accent); font-weight:900; text-transform:uppercase; letter-spacing:.08em; font-size:.78rem; }
+    h1 { font-size:clamp(2.1rem,5vw,4.1rem); line-height:.96; margin:10px 0 18px; letter-spacing:-.055em; }
+    h2 { font-size:1.35rem; margin:0 0 12px; letter-spacing:-.02em; }
+    h3 { margin:0 0 8px; }
+    p { margin:0 0 14px; }
+    .sub { font-size:1.14rem; color:var(--muted); max-width:760px; }
+    .cta { display:flex; flex-wrap:wrap; gap:12px; margin-top:22px; align-items:center; }
+    .button { display:inline-flex; align-items:center; justify-content:center; border-radius:999px; padding:13px 18px; font-weight:850; text-decoration:none; }
+    .primary { background:var(--accent2); color:#fff; }
+    .secondary { color:var(--accent2); border:1px solid var(--line); background:#fff; }
+    .price { font-weight:900; color:var(--accent); }
+    .grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px; margin-top:18px; }
+    .mini { border:1px solid var(--line); border-radius:18px; padding:16px; background:#fff; }
+    .mini strong { display:block; margin-bottom:6px; }
+    ul { padding-left:20px; margin:0; }
+    li { margin:7px 0; }
+    .section { margin-top:18px; }
+    .budget-table { width:100%; border-collapse:separate; border-spacing:0; overflow:hidden; border:1px solid var(--line); border-radius:16px; background:#fff; }
+    .budget-table th, .budget-table td { text-align:left; padding:12px 13px; border-bottom:1px solid var(--line); vertical-align:top; }
+    .budget-table tr:last-child td { border-bottom:0; }
+    .budget-table th { font-size:.82rem; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); background:#f8fafc; }
+    .callout { border-left:5px solid var(--accent); background:var(--soft); padding:14px 16px; border-radius:14px; margin-top:14px; }
+    .warning { border-left:5px solid #f97316; background:var(--warn); padding:14px 16px; border-radius:14px; margin-top:14px; }
+    .copybox { white-space:pre-wrap; background:#0f172a; color:#e5f3ff; border-radius:16px; padding:16px; overflow:auto; font-size:.95rem; }
+    .footer { color:var(--muted); font-size:.9rem; margin-top:18px; }
+    @media (max-width:820px) { .hero, .grid { grid-template-columns:1fr; } .panel { padding:22px; } .budget-table { font-size:.92rem; } }
+  </style>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How much should I budget for a first TikTok Shop product test?",
+        "acceptedAnswer": {"@type": "Answer", "text": "Before buying inventory, budget the sample, shipping, QC unit, photo or listing proof, first creator or content test, return reserve, and a small proof batch. If the total test spend feels uncomfortable before proof, reduce the first order or reject the product."}
+      },
+      {
+        "@type": "Question",
+        "name": "What should be included in a TikTok Shop launch budget?",
+        "acceptedAnswer": {"@type": "Answer", "text": "Include sample cost, supplier shipping, replacement or QC unit, listing photos, content or creator testing, platform and payment friction, returns or defects, packaging, and only the smallest first-order quantity needed to prove demand."}
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <main class="wrap">
+    <section class="hero">
+      <div class="panel">
+        <div class="eyebrow">Free launch budget gate</div>
+        <h1>Cap the first product test before it turns into inventory spend.</h1>
+        <p class="sub">This calculator is for the moment a TikTok Shop idea passes the vibe check and starts asking for money. Add the sample, shipping, QC, listing proof, creator test, return reserve, and first proof batch before you pay a supplier.</p>
+        <div class="cta">
+          <a class="button primary" href="https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase">Get the $1 Product Picker scorecard</a>
+          <a class="button secondary" href="tiktok-shop-first-order-quantity-calculator.html">Open the first-order calculator</a>
+          <span class="price">Planning only. No revenue claims.</span>
+        </div>
+      </div>
+      <aside class="panel">
+        <h2>Use this before</h2>
+        <ul>
+          <li>Paying for the first sample.</li>
+          <li>Accepting a supplier MOQ.</li>
+          <li>Briefing a creator or AI video test.</li>
+          <li>Ordering listing photos or packaging.</li>
+          <li>Calling a product launch-ready.</li>
+        </ul>
+      </aside>
+    </section>
+
+    <section class="grid">
+      <div class="mini"><strong>Sample spend</strong> Include sample unit, supplier shipping, replacement risk, and one QC unit if needed.</div>
+      <div class="mini"><strong>Proof spend</strong> Include listing photos, first demo video, creator/UGC test, or the $67 AI Product Video Test Pack.</div>
+      <div class="mini"><strong>Inventory spend</strong> Keep the first order to a proof batch with a written stop-loss number.</div>
+    </section>
+
+    <section class="panel section">
+      <div class="eyebrow">Launch budget worksheet</div>
+      <h2>Add every line before supplier payment.</h2>
+      <table class="budget-table" aria-label="TikTok Shop launch budget calculator">
+        <thead><tr><th>Budget line</th><th>What to include</th><th>Decision rule</th></tr></thead>
+        <tbody>
+          <tr><td>Sample + shipping</td><td>Sample price, international shipping, taxes, rush fees, and any second sample needed for QC.</td><td>If sample cost alone feels high, run the $1 scorecard before paying.</td></tr>
+          <tr><td>QC and replacement buffer</td><td>One unit to inspect, one unit for demo abuse, and a small defect/replacement reserve.</td><td>If the supplier will not discuss defects, reject or delay.</td></tr>
+          <tr><td>Listing proof</td><td>Main photo, scale shot, detail shot, use-case shot, variant/bundle image, and risk-disclosure photos.</td><td>If photos cannot prove the promise, do not launch yet.</td></tr>
+          <tr><td>Content test</td><td>Creator sample, UGC brief, AI video concept, editing, or the first three short-form hooks.</td><td>If no hook can show the benefit fast, fix the angle before inventory.</td></tr>
+          <tr><td>Return reserve</td><td>Expected defects, sizing/fit confusion, fragile packaging, refund friction, and customer support time.</td><td>If returns erase margin, reject or reposition.</td></tr>
+          <tr><td>First proof batch</td><td>Only enough units to validate demand, content response, and supplier reliability.</td><td>If MOQ forces a large blind buy, negotiate or walk away.</td></tr>
+          <tr><td>Stop-loss cap</td><td>The maximum cash you are willing to spend before demand proof.</td><td>If total launch budget exceeds the cap, cut scope or reject.</td></tr>
+        </tbody>
+      </table>
+      <p class="callout"><strong>Simple rule:</strong> a product is not cheap because the unit cost is cheap. It is cheap only if the full test budget is small enough to lose without damaging the next test.</p>
+    </section>
+
+    <section class="panel section">
+      <div class="eyebrow">Copyable budget note</div>
+      <h2>Paste this into your product folder.</h2>
+      <div class="copybox">Product:
+Target buyer:
+Sample + shipping:
+QC / replacement buffer:
+Listing proof cost:
+First content test cost:
+Return / defect reserve:
+First proof batch quantity:
+Total first-test budget:
+Stop-loss cap:
+Decision: sample / fix / reject</div>
+      <p class="warning"><strong>Reject faster:</strong> if the supplier, photos, or content test only make sense after a big first order, the product is asking you to buy confidence instead of earning it.</p>
+    </section>
+
+    <section class="panel section">
+      <div class="eyebrow">Next step</div>
+      <h2>Score the product before the budget expands.</h2>
+      <p>The $1 Product Picker Lite scorecard checks buyer clarity, margin room, supplier proof, risk, and repeatable content angles before the launch budget turns into a larger inventory decision.</p>
+      <div class="cta">
+        <a class="button primary" href="https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase">Buy Product Picker Lite for $1</a>
+        <a class="button secondary" href="tiktok-shop-prelaunch-checklist.html">Open the prelaunch checklist</a>
+        <a class="button secondary" href="tiktok-shop-video-hooks-template.html">Open the video hooks template</a>
+        <a class="button secondary" href="ai-product-video-test-pack.html">Open the $67 video test offer</a>
+      </div>
+      <p class="footer">Educational planning resource. Not financial, legal, supplier, marketplace, or revenue advice.</p>
+    </section>
+  </main>
+</body>
+</html>

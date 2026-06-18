@@ -55,6 +55,7 @@ Better idea pattern:
 - internal link to the TikTok Shop supplier message template page
 - internal link to the TikTok Shop compliance risk checklist page
 - internal link to the TikTok Shop creator brief template page
+- internal link to the TikTok Shop first order quantity calculator page
 - internal upsell link to the $67 AI Product Video Test Pack page
 - schema.org Product JSON-LD with $1 offer
 - no external scripts or trackers
@@ -160,6 +161,16 @@ Better idea pattern:
 - worked desk-cable-organizer creator brief example
 - FAQPage JSON-LD for organic snippets
 - CTA path back to the $1 Product Picker scorecard, video hooks template, sample $67 output, and $67 AI Product Video Test Pack
+- no external scripts or trackers
+- no income claims
+
+`tiktok-shop-first-order-quantity-calculator.html` includes:
+
+- long-tail SEO page for buyers searching how many TikTok Shop units to order first, first order quantity, MOQ risk, and pre-inventory test gates
+- first order quantity worksheet covering QC units, creator/content-test units, replacement buffer, reorder trigger, supplier MOQ pressure, and stop-loss cash
+- order/pause/reject decision table for first inventory buys
+- FAQPage JSON-LD for organic snippets
+- CTA path back to Product Picker Lite, sample QC, supplier message template, and the $67 AI Product Video Test Pack
 - no external scripts or trackers
 - no income claims
 

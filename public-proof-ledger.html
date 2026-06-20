@@ -24,9 +24,13 @@
     .proof { display:grid; gap:10px; margin-top:14px; }
     .row { display:grid; grid-template-columns: 170px 1fr; gap:12px; border:1px solid var(--line); border-radius:14px; padding:11px 13px; background:#fbfdff; }
     .row b { color:var(--accent2); }
+    .short-list { display:grid; gap:10px; margin-top:16px; }
+    .short-item { display:grid; grid-template-columns: 1fr auto; gap:12px; align-items:center; border:1px solid var(--line); border-radius:14px; padding:12px 14px; background:#fbfdff; }
+    .short-item a { color:var(--accent2); font-weight:800; }
+    .metric { color:var(--muted); font-size:.92rem; white-space:nowrap; }
     iframe { width:100%; aspect-ratio:16/9; border:0; border-radius:18px; background:#000; }
     .footer { color:var(--muted); font-size:.9rem; margin-top:18px; }
-    @media (max-width: 680px) { .panel { padding:22px; } .row { grid-template-columns:1fr; } }
+    @media (max-width: 680px) { .panel { padding:22px; } .row, .short-item { grid-template-columns:1fr; } .metric { white-space:normal; } }
   </style>
 </head>
 <body>
@@ -46,12 +50,19 @@
       <div class="eyebrow">Latest public post proof</div>
       <h2>AI ASMR Short uploaded publicly on YouTube</h2>
       <p>The current growth loop is testing short-form hooks publicly first. This example is not a product ad; it is the live proof surface that the loop is posting, verifying status, and measuring before more production.</p>
-      <iframe src="https://www.youtube.com/embed/9xwYX3X-ORY" title="The Cat Stayed By the Window | Lucian Whisper ASMR #Shorts" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/4mCTao2cJnU" title="The Cat Came Back When the Rain Got Quiet | Lucian Whisper ASMR #Shorts" allowfullscreen></iframe>
       <div class="proof">
-        <div class="row"><b>Public URL</b><span><a href="https://www.youtube.com/watch?v=9xwYX3X-ORY">youtube.com/watch?v=9xwYX3X-ORY</a></span></div>
-        <div class="row"><b>Status</b><span>Public, HD, embeddable, custom thumbnail present</span></div>
-        <div class="row"><b>Posted</b><span>2026-06-20 03:31 UTC on the AI ASMR channel</span></div>
+        <div class="row"><b>Public URL</b><span><a href="https://www.youtube.com/watch?v=4mCTao2cJnU">youtube.com/watch?v=4mCTao2cJnU</a></span></div>
+        <div class="row"><b>Status</b><span>Public, HD, processed, embeddable, custom thumbnail present</span></div>
+        <div class="row"><b>Posted</b><span>2026-06-20 05:36 UTC on the AI ASMR channel</span></div>
         <div class="row"><b>Role</b><span>Latest verified Lucian-whisper viral-growth proof before more checkout/product work</span></div>
+      </div>
+      <div class="short-list" aria-label="Recent public Shorts strip">
+        <div class="short-item"><span><a href="https://www.youtube.com/watch?v=4mCTao2cJnU">The Cat Came Back When the Rain Got Quiet</a><br>Lucian Whisper ASMR #Shorts</span><span class="metric">0 views · public · processed</span></div>
+        <div class="short-item"><span><a href="https://www.youtube.com/watch?v=9xwYX3X-ORY">The Cat Stayed By the Window</a><br>Lucian Whisper ASMR #Shorts</span><span class="metric">0 views · public · processed</span></div>
+        <div class="short-item"><span><a href="https://www.youtube.com/watch?v=DS21KuT4aVs">The Cat Checked If We Were Still Awake</a><br>Lucian Whisper ASMR #Shorts</span><span class="metric">0 views · public · processed</span></div>
+        <div class="short-item"><span><a href="https://www.youtube.com/watch?v=o2mA2O9_Rrs">The Cat Waited for the Rain to Answer</a><br>Lucian Whisper ASMR #Shorts</span><span class="metric">0 views · public · processed</span></div>
+        <div class="short-item"><span><a href="https://www.youtube.com/watch?v=7eBvZOdBQis">The Rain Got Quiet, Then the Cat Purred</a><br>Lucian Whisper ASMR #Shorts</span><span class="metric">0 views · public · processed</span></div>
       </div>
     </section>
 

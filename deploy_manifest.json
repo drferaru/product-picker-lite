@@ -91,13 +91,13 @@
       "added_utc": "2026-06-18T19:22:45Z"
     }
   ],
-  "last_updated_utc": "2026-06-20T06:25:53Z",
+  "last_updated_utc": "2026-06-20T08:31:14Z",
   "last_public_move": {
     "path": "public-proof-ledger.html",
     "url": "https://drferaru.github.io/product-picker-lite/public-proof-ledger.html",
-    "intent": "Proof ledger now embeds the latest verified public Lucian-whisper YouTube Short 4mCTao2cJnU plus a five-Short public strip, and routes buyers to the $1 scorecard and $67 test-pack path."
+    "intent": "Proof ledger now embeds the latest verified public Lucian-whisper YouTube Short AJuX1SI1M5s plus a five-Short public strip, and routes buyers to the $1 scorecard and $67 test-pack path."
   },
   "latest_safe_action": "Updated existing public proof ledger to latest verified public YouTube Short and recent public Shorts strip; no new local asset pile.",
   "latest_public_proof_ledger": "public-proof-ledger.html",
-  "updated_at": "2026-06-20T06:25:53Z"
+  "updated_at": "2026-06-20T08:31:14Z"
 }

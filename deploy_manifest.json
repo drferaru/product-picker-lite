@@ -1,9 +1,5 @@
 {
-  "run_id": "first_dollar_execute_20260618T1823Z",
   "created_at_utc": "2026-06-18T07:40:45.833335Z",
-  "source": "/Users/loosh/clawd/socials-youtube-aiasmr/products/tiktok_shop_china_sourcing_starter_pack/product_picker_lite_github_seo_landing",
-  "stage": "/Users/loosh/.hermes/autonomous_runs/hourly_ceo_20260618T074045Z/product-picker-lite-public-site",
-  "public_target": "https://drferaru.github.io/product-picker-lite/",
   "files": [
     ".nojekyll",
     "README.md",
@@ -44,64 +40,77 @@
     "tiktok-shop-ugc-video-test-plan.html",
     "tiktok-shop-video-hooks-template.html"
   ],
-  "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io.",
-  "updated_at_utc": "2026-06-19T17:55:00Z",
   "last_added_page": "tiktok-shop-ai-product-video-prompt-pack.html",
-  "pages": [
-    {
-      "path": "tiktok-shop-product-demo-storyboard-template.html",
-      "purpose": "TikTok Shop product demo storyboard template bridging Product Picker Lite to the AI Product Video Test Pack",
-      "added_utc": "2026-06-18T13:28:48Z"
-    },
-    {
-      "path": "tiktok-shop-sample-unboxing-shot-list.html",
-      "purpose": "TikTok Shop sample unboxing proof-shot checklist bridging sample QC to Product Picker Lite and the AI Product Video Test Pack",
-      "added_utc": "2026-06-18T13:25:00Z"
-    },
-    {
-      "path": "tiktok-shop-supplier-red-flag-response-library.html",
-      "purpose": "TikTok Shop supplier red-flag response library and copyable pushback scripts before sample payment",
-      "added_utc": "2026-06-18T14:31:00Z"
-    },
-    {
-      "path": "tiktok-shop-defect-photo-checklist.html",
-      "purpose": "TikTok Shop sample defect photo checklist and supplier replacement proof workflow before reorder or inventory spend",
-      "added_utc": "2026-06-18T15:08:00Z"
-    },
-    {
-      "path": "tiktok-shop-customer-complaint-response-template.html",
-      "purpose": "TikTok Shop customer complaint response template turning support complaints into reorder, supplier escalation, listing-proof, and Product Picker Lite re-score decisions",
-      "added_utc": "2026-06-18T16:44:00Z"
-    },
-    {
-      "path": "tiktok-shop-supplier-negotiation-script.html",
-      "purpose": "TikTok Shop supplier negotiation script for MOQ pushback, sample price, packaging proof, defect terms, and proof-batch first-order decisions before money leaves",
-      "added_utc": "2026-06-18T17:12:00Z"
-    },
-    {
-      "path": "tiktok-shop-sourcing-swipe-file.html",
-      "purpose": "TikTok Shop sourcing swipe file with supplier, refund-risk, sample QC, and content-proof scripts routed to the Product Picker Lite checkout",
-      "added_utc": "2026-06-18T18:06:10Z"
-    },
-    {
-      "path": "tiktok-shop-ugc-video-test-plan.html",
-      "purpose": "TikTok Shop UGC video test plan for mapping a validated product into problem-proof, demo-proof, and objection-proof short-form content tests before creator or production spend",
-      "added_utc": "2026-06-18T18:23:00Z"
-    },
-    {
-      "path": "tiktok-shop-ai-product-video-prompt-pack.html",
-      "purpose": "TikTok Shop AI product video prompt pack with safe spec ad, UGC-style demo, and objection-proof clip prompts routed to the 7 AI Product Video Test Pack",
-      "added_utc": "2026-06-18T19:22:45Z"
-    }
-  ],
-  "last_updated_utc": "2026-06-21T10:41:06Z",
   "last_public_move": {
+    "intent": "Ship a dedicated public proof page for the latest verified 3AM Desk Glow Short, connect the proof to the $1 checkout and $67 video-test path, and avoid private asset-pile drift.",
     "path": "3am-desk-glow-short-proof.html + index.html + public-proof-ledger.html + sitemap.xml",
-    "url": "https://drferaru.github.io/product-picker-lite/3am-desk-glow-short-proof.html",
-    "intent": "Ship a dedicated public proof page for the latest verified 3AM Desk Glow Short, connect the proof to the $1 checkout and $67 video-test path, and avoid private asset-pile drift."
+    "url": "https://drferaru.github.io/product-picker-lite/3am-desk-glow-short-proof.html"
   },
-  "latest_safe_action": "Shipped dedicated public 3AM Desk Glow proof page with embedded public Short, $1 checkout CTA, free UGC test plan CTA, and $67 video-test CTA; no new asset pile.",
+  "last_updated_utc": "2026-06-21T10:41:06Z",
+  "latest_keyboard_rain_window_proof": {
+    "buyer_cta": "https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase",
+    "checked_at": "2026-06-21T11:49:22.835364Z",
+    "source_metrics": "/Users/loosh/clawd/socials-youtube-aiasmr/autonomous_runs/20260621_1139_aiasmr_viral_growth_metrics/youtube_metrics.json",
+    "title": "Typing Under the Rain Window | Lucian Whisper ASMR #Shorts",
+    "url": "https://drferaru.github.io/product-picker-lite/typing-under-rain-window-short-proof.html",
+    "video_id": "Z78yClP9WPg",
+    "youtube_url": "https://www.youtube.com/watch?v=Z78yClP9WPg"
+  },
   "latest_public_proof_ledger": "public-proof-ledger.html",
   "latest_public_proof_page": "3am-desk-glow-short-proof.html",
-  "updated_at": "2026-06-21T10:41:06Z"
+  "latest_safe_action": "Shipped dedicated public 3AM Desk Glow proof page with embedded public Short, $1 checkout CTA, free UGC test plan CTA, and $67 video-test CTA; no new asset pile.",
+  "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io.",
+  "pages": [
+    {
+      "added_utc": "2026-06-18T13:28:48Z",
+      "path": "tiktok-shop-product-demo-storyboard-template.html",
+      "purpose": "TikTok Shop product demo storyboard template bridging Product Picker Lite to the AI Product Video Test Pack"
+    },
+    {
+      "added_utc": "2026-06-18T13:25:00Z",
+      "path": "tiktok-shop-sample-unboxing-shot-list.html",
+      "purpose": "TikTok Shop sample unboxing proof-shot checklist bridging sample QC to Product Picker Lite and the AI Product Video Test Pack"
+    },
+    {
+      "added_utc": "2026-06-18T14:31:00Z",
+      "path": "tiktok-shop-supplier-red-flag-response-library.html",
+      "purpose": "TikTok Shop supplier red-flag response library and copyable pushback scripts before sample payment"
+    },
+    {
+      "added_utc": "2026-06-18T15:08:00Z",
+      "path": "tiktok-shop-defect-photo-checklist.html",
+      "purpose": "TikTok Shop sample defect photo checklist and supplier replacement proof workflow before reorder or inventory spend"
+    },
+    {
+      "added_utc": "2026-06-18T16:44:00Z",
+      "path": "tiktok-shop-customer-complaint-response-template.html",
+      "purpose": "TikTok Shop customer complaint response template turning support complaints into reorder, supplier escalation, listing-proof, and Product Picker Lite re-score decisions"
+    },
+    {
+      "added_utc": "2026-06-18T17:12:00Z",
+      "path": "tiktok-shop-supplier-negotiation-script.html",
+      "purpose": "TikTok Shop supplier negotiation script for MOQ pushback, sample price, packaging proof, defect terms, and proof-batch first-order decisions before money leaves"
+    },
+    {
+      "added_utc": "2026-06-18T18:06:10Z",
+      "path": "tiktok-shop-sourcing-swipe-file.html",
+      "purpose": "TikTok Shop sourcing swipe file with supplier, refund-risk, sample QC, and content-proof scripts routed to the Product Picker Lite checkout"
+    },
+    {
+      "added_utc": "2026-06-18T18:23:00Z",
+      "path": "tiktok-shop-ugc-video-test-plan.html",
+      "purpose": "TikTok Shop UGC video test plan for mapping a validated product into problem-proof, demo-proof, and objection-proof short-form content tests before creator or production spend"
+    },
+    {
+      "added_utc": "2026-06-18T19:22:45Z",
+      "path": "tiktok-shop-ai-product-video-prompt-pack.html",
+      "purpose": "TikTok Shop AI product video prompt pack with safe spec ad, UGC-style demo, and objection-proof clip prompts routed to the 7 AI Product Video Test Pack"
+    }
+  ],
+  "public_target": "https://drferaru.github.io/product-picker-lite/",
+  "run_id": "first_dollar_execute_20260618T1823Z",
+  "source": "/Users/loosh/clawd/socials-youtube-aiasmr/products/tiktok_shop_china_sourcing_starter_pack/product_picker_lite_github_seo_landing",
+  "stage": "/Users/loosh/.hermes/autonomous_runs/hourly_ceo_20260618T074045Z/product-picker-lite-public-site",
+  "updated_at": "2026-06-21T10:41:06Z",
+  "updated_at_utc": "2026-06-19T17:55:00Z"
 }

@@ -4,6 +4,7 @@
     ".nojekyll",
     "README.md",
     "3am-desk-glow-short-proof.html",
+    "typing-under-rain-window-short-proof.html",
     "ai-asmr-public-proof-to-product-video-offer.html",
     "ai-product-video-test-pack-demo.html",
     "ai-product-video-test-pack-intake.html",
@@ -46,19 +47,19 @@
     "path": "3am-desk-glow-short-proof.html + index.html + public-proof-ledger.html + sitemap.xml",
     "url": "https://drferaru.github.io/product-picker-lite/3am-desk-glow-short-proof.html"
   },
-  "last_updated_utc": "2026-06-21T10:41:06Z",
+  "last_updated": "2026-06-21T12:53:00Z",
   "latest_keyboard_rain_window_proof": {
     "buyer_cta": "https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase",
-    "checked_at": "2026-06-21T11:49:22.835364Z",
-    "source_metrics": "/Users/loosh/clawd/socials-youtube-aiasmr/autonomous_runs/20260621_1139_aiasmr_viral_growth_metrics/youtube_metrics.json",
+    "checked_at": "2026-06-21T12:53:00Z",
+    "source_metrics": "/Users/loosh/clawd/socials-youtube-aiasmr/autonomous_runs/20260621_1253_aiasmr_viral_growth_metrics/youtube_metrics.json",
     "title": "Typing Under the Rain Window | Lucian Whisper ASMR #Shorts",
     "url": "https://drferaru.github.io/product-picker-lite/typing-under-rain-window-short-proof.html",
     "video_id": "Z78yClP9WPg",
     "youtube_url": "https://www.youtube.com/watch?v=Z78yClP9WPg"
   },
   "latest_public_proof_ledger": "public-proof-ledger.html",
-  "latest_public_proof_page": "3am-desk-glow-short-proof.html",
-  "latest_safe_action": "Shipped dedicated public 3AM Desk Glow proof page with embedded public Short, $1 checkout CTA, free UGC test plan CTA, and $67 video-test CTA; no new asset pile.",
+  "latest_public_proof_page": "typing-under-rain-window-short-proof.html",
+  "latest_safe_action": "Refreshed the live keyboard/rain public proof surfaces with the latest YouTube API telemetry and kept buyer CTAs live; no new asset pile.",
   "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io.",
   "pages": [
     {
@@ -111,6 +112,6 @@
   "run_id": "first_dollar_execute_20260618T1823Z",
   "source": "/Users/loosh/clawd/socials-youtube-aiasmr/products/tiktok_shop_china_sourcing_starter_pack/product_picker_lite_github_seo_landing",
   "stage": "/Users/loosh/.hermes/autonomous_runs/hourly_ceo_20260618T074045Z/product-picker-lite-public-site",
-  "updated_at": "2026-06-21T10:41:06Z",
+  "updated_at": "2026-06-21T12:53:00Z",
   "updated_at_utc": "2026-06-19T17:55:00Z"
 }

@@ -7,6 +7,7 @@
   "files": [
     ".nojekyll",
     "README.md",
+    "3am-desk-glow-short-proof.html",
     "ai-asmr-public-proof-to-product-video-offer.html",
     "ai-product-video-test-pack-demo.html",
     "ai-product-video-test-pack-intake.html",
@@ -93,13 +94,14 @@
       "added_utc": "2026-06-18T19:22:45Z"
     }
   ],
-  "last_updated_utc": "2026-06-21T09:16:00Z",
+  "last_updated_utc": "2026-06-21T10:41:06Z",
   "last_public_move": {
-    "path": "index.html + ai-asmr-public-proof-to-product-video-offer.html + public-proof-ledger.html",
-    "url": "https://drferaru.github.io/product-picker-lite/",
-    "intent": "Keep owned buyer-facing surfaces aligned with the latest public YouTube proof, flat early distribution, $1 checkout CTA, and the cozy desk/setup test hypothesis."
+    "path": "3am-desk-glow-short-proof.html + index.html + public-proof-ledger.html + sitemap.xml",
+    "url": "https://drferaru.github.io/product-picker-lite/3am-desk-glow-short-proof.html",
+    "intent": "Ship a dedicated public proof page for the latest verified 3AM Desk Glow Short, connect the proof to the $1 checkout and $67 video-test path, and avoid private asset-pile drift."
   },
-  "latest_safe_action": "Updated homepage, offer page, and public proof ledger to the latest verified 3AM Desk Glow public Short and latest YouTube metrics; no new asset pile.",
+  "latest_safe_action": "Shipped dedicated public 3AM Desk Glow proof page with embedded public Short, $1 checkout CTA, free UGC test plan CTA, and $67 video-test CTA; no new asset pile.",
   "latest_public_proof_ledger": "public-proof-ledger.html",
-  "updated_at": "2026-06-21T09:16:00Z"
+  "latest_public_proof_page": "3am-desk-glow-short-proof.html",
+  "updated_at": "2026-06-21T10:41:06Z"
 }

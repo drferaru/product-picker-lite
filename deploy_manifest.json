@@ -7,15 +7,19 @@
   "files": [
     ".nojekyll",
     "README.md",
+    "ai-asmr-public-proof-to-product-video-offer.html",
     "ai-product-video-test-pack-demo.html",
     "ai-product-video-test-pack-intake.html",
     "ai-product-video-test-pack.html",
     "index.html",
+    "public-proof-ledger.html",
     "robots.txt",
     "sitemap.xml",
+    "tiktok-shop-ai-product-video-prompt-pack.html",
     "tiktok-shop-competitor-price-gap-calculator.html",
     "tiktok-shop-compliance-risk-checklist.html",
     "tiktok-shop-creator-brief-template.html",
+    "tiktok-shop-customer-complaint-response-template.html",
     "tiktok-shop-defect-photo-checklist.html",
     "tiktok-shop-first-order-quantity-calculator.html",
     "tiktok-shop-launch-budget-calculator.html",
@@ -31,15 +35,13 @@
     "tiktok-shop-sample-replacement-email-template.html",
     "tiktok-shop-sample-unboxing-shot-list.html",
     "tiktok-shop-sourcing-mistakes.html",
+    "tiktok-shop-sourcing-swipe-file.html",
     "tiktok-shop-supplier-message-template.html",
+    "tiktok-shop-supplier-negotiation-script.html",
     "tiktok-shop-supplier-red-flag-response-library.html",
     "tiktok-shop-supplier-reply-scorecard.html",
-    "tiktok-shop-video-hooks-template.html",
-    "tiktok-shop-customer-complaint-response-template.html",
-    "tiktok-shop-supplier-negotiation-script.html",
-    "tiktok-shop-sourcing-swipe-file.html",
     "tiktok-shop-ugc-video-test-plan.html",
-    "tiktok-shop-ai-product-video-prompt-pack.html"
+    "tiktok-shop-video-hooks-template.html"
   ],
   "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io.",
   "updated_at_utc": "2026-06-19T17:55:00Z",
@@ -91,13 +93,13 @@
       "added_utc": "2026-06-18T19:22:45Z"
     }
   ],
-  "last_updated_utc": "2026-06-21T04:04:46Z",
+  "last_updated_utc": "2026-06-21T05:09:53Z",
   "last_public_move": {
-    "path": "public-proof-ledger.html",
-    "url": "https://drferaru.github.io/product-picker-lite/public-proof-ledger.html",
-    "intent": "Buyer-facing proof ledger now exposes latest channel metrics, latest public Short state, top current winner, and the gate to change hook/format before more uploads."
+    "path": "index.html + ai-asmr-public-proof-to-product-video-offer.html + public-proof-ledger.html",
+    "url": "https://drferaru.github.io/product-picker-lite/",
+    "intent": "Keep owned buyer-facing surfaces aligned with the actual latest public YouTube proof, flat early distribution, $1 checkout CTA, and no-near-duplicate gate."
   },
-  "latest_safe_action": "Updated live public proof ledger with current YouTube growth telemetry snapshot and no-duplicate gate; no new local asset pile.",
+  "latest_safe_action": "Updated homepage, offer page, and public proof ledger to the current verified public Short and latest YouTube metrics; no new asset pile.",
   "latest_public_proof_ledger": "public-proof-ledger.html",
-  "updated_at": "2026-06-21T04:04:46Z"
+  "updated_at": "2026-06-21T05:09:53Z"
 }

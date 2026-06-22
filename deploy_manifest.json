@@ -48,9 +48,9 @@
   "last_public_move": {
     "path": "viral-growth-decision-log.html",
     "url": "https://drferaru.github.io/product-picker-lite/viral-growth-decision-log.html",
-    "intent": "Expose current public posting proof, flat traction gate, and Product Picker Lite buyer CTA from fresh metrics."
+    "intent": "Expose current public posting proof, flat latest-short traction gate, and Product Picker Lite buyer CTA from fresh metrics."
   },
-  "last_updated": "2026-06-22T09:14:57Z",
+  "last_updated": "2026-06-22T10:22:54Z",
   "latest_keyboard_rain_window_proof": {
     "buyer_cta": "https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase",
     "checked_at": "2026-06-21T12:53:00Z",
@@ -62,7 +62,7 @@
   },
   "latest_public_proof_ledger": "public-proof-ledger.html",
   "latest_public_proof_page": "monitor-glow-after-midnight-short-proof.html",
-  "latest_safe_action": "Refreshed public viral growth decision log with current YouTube API metrics and buyer CTAs; no new local asset pile.",
+  "latest_safe_action": "Refreshed public viral-growth decision log with 10:21 UTC YouTube API telemetry and buyer CTAs; no new local asset pile.",
   "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io.",
   "pages": [
     {
@@ -120,7 +120,7 @@
   "run_id": "first_dollar_execute_20260618T1823Z",
   "source": "/Users/loosh/clawd/socials-youtube-aiasmr/products/tiktok_shop_china_sourcing_starter_pack/product_picker_lite_github_seo_landing",
   "stage": "/Users/loosh/.hermes/autonomous_runs/hourly_ceo_20260618T074045Z/product-picker-lite-public-site",
-  "updated_at": "2026-06-22T09:14:57Z",
+  "updated_at": "2026-06-22T10:22:54Z",
   "updated_at_utc": "2026-06-19T17:55:00Z",
   "latest_monitor_glow_proof": {
     "title": "Monitor Glow After Midnight | Lucian Whisper ASMR #Shorts",
@@ -140,7 +140,7 @@
     "views": 1,
     "likes": 0,
     "comments": 0,
-    "metrics_path": "/Users/loosh/clawd/socials-youtube-aiasmr/autonomous_runs/20260622_0139_aiasmr_viral_growth_metrics/youtube_metrics.json",
-    "checked_at": "2026-06-22T01:39:56.010582+00:00"
+    "metrics_path": "/Users/loosh/clawd/socials-youtube-aiasmr/autonomous_runs/20260622_1021_aiasmr_viral_growth_metrics/youtube_metrics.json",
+    "checked_at": "2026-06-22T10:21:42.660275+00:00"
   }
 }

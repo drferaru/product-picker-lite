@@ -41,15 +41,16 @@
     "tiktok-shop-supplier-reply-scorecard.html",
     "tiktok-shop-ugc-video-test-plan.html",
     "tiktok-shop-video-hooks-template.html",
-    "typing-under-rain-window-short-proof.html"
+    "typing-under-rain-window-short-proof.html",
+    "viral-growth-decision-log.html"
   ],
   "last_added_page": "tiktok-shop-ai-product-video-prompt-pack.html",
   "last_public_move": {
-    "path": "index.html + ai-asmr-public-proof-to-product-video-offer.html + public-proof-ledger.html",
-    "url": "https://drferaru.github.io/product-picker-lite/",
-    "intent": "Keep owned buyer-facing surfaces aligned with the actual latest public YouTube proof, flat early distribution, $1 checkout CTA, and no-near-duplicate gate."
+    "path": "viral-growth-decision-log.html",
+    "url": "https://drferaru.github.io/product-picker-lite/viral-growth-decision-log.html",
+    "intent": "Expose the current growth gate publicly: Shorts are live, distribution is flat, next move must change hook/format, buyer CTAs remain active."
   },
-  "last_updated": "2026-06-22T01:42:19Z",
+  "last_updated": "2026-06-22T07:04:10Z",
   "latest_keyboard_rain_window_proof": {
     "buyer_cta": "https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase",
     "checked_at": "2026-06-21T12:53:00Z",
@@ -61,7 +62,7 @@
   },
   "latest_public_proof_ledger": "public-proof-ledger.html",
   "latest_public_proof_page": "monitor-glow-after-midnight-short-proof.html",
-  "latest_safe_action": "Updated homepage, offer page, and public proof ledger to the current verified public Short and latest YouTube metrics; no new asset pile.",
+  "latest_safe_action": "Shipped public viral growth decision log with current YouTube metrics gate and buyer CTAs; no new local asset pile.",
   "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io.",
   "pages": [
     {
@@ -108,13 +109,18 @@
       "added_utc": "2026-06-18T19:22:45Z",
       "path": "tiktok-shop-ai-product-video-prompt-pack.html",
       "purpose": "TikTok Shop AI product video prompt pack with safe spec ad, UGC-style demo, and objection-proof clip prompts routed to the 7 AI Product Video Test Pack"
+    },
+    {
+      "added_utc": "2026-06-22T07:04:10Z",
+      "path": "viral-growth-decision-log.html",
+      "purpose": "Public viral-growth decision log tying verified YouTube posting proof, flat metrics, and Product Picker Lite buyer CTA into one live surface"
     }
   ],
   "public_target": "https://drferaru.github.io/product-picker-lite/",
   "run_id": "first_dollar_execute_20260618T1823Z",
   "source": "/Users/loosh/clawd/socials-youtube-aiasmr/products/tiktok_shop_china_sourcing_starter_pack/product_picker_lite_github_seo_landing",
   "stage": "/Users/loosh/.hermes/autonomous_runs/hourly_ceo_20260618T074045Z/product-picker-lite-public-site",
-  "updated_at": "2026-06-22T04:50:56Z",
+  "updated_at": "2026-06-22T07:04:10Z",
   "updated_at_utc": "2026-06-19T17:55:00Z",
   "latest_monitor_glow_proof": {
     "title": "Monitor Glow After Midnight | Lucian Whisper ASMR #Shorts",

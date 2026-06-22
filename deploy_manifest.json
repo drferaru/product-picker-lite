@@ -46,12 +46,71 @@
     "cat-listened-back-short-proof.html"
   ],
   "last_added_page": "tiktok-shop-ai-product-video-prompt-pack.html",
+  "last_product_video_pivot_surface_update": {
+    "files": [
+      "viral-growth-decision-log.html",
+      "public-proof-ledger.html",
+      "deploy_manifest.json"
+    ],
+    "latest_public_short": {
+      "comments": 0,
+      "duration": "PT34S",
+      "id": "Z7hReOZA1E4",
+      "likes": 0,
+      "privacy": "public",
+      "processingStatus": "succeeded",
+      "publishedAt": "2026-06-22T00:31:33Z",
+      "title": "The Cat Checks The Rain First | Lucian Whisper ASMR #Shorts",
+      "uploadStatus": "processed",
+      "url": "https://www.youtube.com/watch?v=Z7hReOZA1E4",
+      "views": 1
+    },
+    "metrics": "/Users/loosh/clawd/socials-youtube-aiasmr/autonomous_runs/20260622_1657_aiasmr_viral_growth_metrics/youtube_metrics.json",
+    "top_product_style_proofs": [
+      {
+        "comments": 0,
+        "duration": "PT31S",
+        "id": "shnkPNRXw3M",
+        "likes": 9,
+        "privacy": "public",
+        "processingStatus": "succeeded",
+        "publishedAt": "2026-06-10T00:41:22Z",
+        "title": "Monitor Light Bar Desk Setup | Cozy Night Workspace #shorts",
+        "uploadStatus": "processed",
+        "url": "https://www.youtube.com/watch?v=shnkPNRXw3M",
+        "views": 608
+      },
+      {
+        "comments": 0,
+        "duration": "PT31S",
+        "id": "1svkQkFf6YI",
+        "likes": 3,
+        "privacy": "public",
+        "processingStatus": "succeeded",
+        "publishedAt": "2026-06-07T17:44:55Z",
+        "title": "Under Desk Foot Rest Setup Idea \u2014 Amazon Find #Shorts",
+        "uploadStatus": "processed",
+        "url": "https://www.youtube.com/watch?v=1svkQkFf6YI",
+        "views": 305
+      }
+    ],
+    "updated_at": "2026-06-22T16:59:33.684433+00:00"
+  },
   "last_public_move": {
+    "intent": "Publish a live owned proof page for an already-public YouTube Short and duplicate-guard decision; keep buyer CTA live without creating more local assets.",
     "path": "index.html + public-proof-ledger.html + viral-growth-decision-log.html + cat-listened-back-short-proof.html",
-    "url": "https://drferaru.github.io/product-picker-lite/cat-listened-back-short-proof.html",
-    "intent": "Publish a live owned proof page for an already-public YouTube Short and duplicate-guard decision; keep buyer CTA live without creating more local assets."
+    "url": "https://drferaru.github.io/product-picker-lite/cat-listened-back-short-proof.html"
   },
   "last_updated": "2026-06-22T14:50:32.035308Z",
+  "last_updated_utc": "2026-06-22T12:28:10Z",
+  "latest_duplicate_guard_proof_20260622": {
+    "buyer_cta": "https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase",
+    "checked_at": "2026-06-22T14:50:32.035308Z",
+    "source_api_proof": "/Users/loosh/clawd/socials-youtube-aiasmr/autonomous_runs/20260622_1345_ceo_deliverable_existing_public_youtube_proof/youtube_existing_public_verify_result.json",
+    "url": "https://drferaru.github.io/product-picker-lite/cat-listened-back-short-proof.html",
+    "video_id": "G0q-Lbh5A8A",
+    "youtube_url": "https://www.youtube.com/watch?v=G0q-Lbh5A8A"
+  },
   "latest_keyboard_rain_window_proof": {
     "buyer_cta": "https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase",
     "checked_at": "2026-06-21T12:53:00Z",
@@ -61,8 +120,28 @@
     "video_id": "Z78yClP9WPg",
     "youtube_url": "https://www.youtube.com/watch?v=Z78yClP9WPg"
   },
+  "latest_monitor_glow_proof": {
+    "buyer_cta": "https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase",
+    "checked_at": "2026-06-21T13:49:58.346964Z",
+    "source_metrics": "/Users/loosh/clawd/socials-youtube-aiasmr/autonomous_runs/20260621_1349_aiasmr_viral_growth_metrics/youtube_metrics.json",
+    "title": "Monitor Glow After Midnight | Lucian Whisper ASMR #Shorts",
+    "url": "https://drferaru.github.io/product-picker-lite/monitor-glow-after-midnight-short-proof.html",
+    "video_id": "MjrfaxXCf7c",
+    "youtube_url": "https://www.youtube.com/watch?v=MjrfaxXCf7c"
+  },
   "latest_public_proof_ledger": "public-proof-ledger.html",
   "latest_public_proof_page": "monitor-glow-after-midnight-short-proof.html",
+  "latest_public_youtube_short": {
+    "checked_at": "2026-06-22T10:21:42.660275+00:00",
+    "comments": 0,
+    "likes": 0,
+    "metrics_path": "/Users/loosh/clawd/socials-youtube-aiasmr/autonomous_runs/20260622_1021_aiasmr_viral_growth_metrics/youtube_metrics.json",
+    "published_at": "2026-06-22T00:31:33Z",
+    "title": "The Cat Checks The Rain First | Lucian Whisper ASMR #Shorts",
+    "video_id": "Z7hReOZA1E4",
+    "views": 1,
+    "youtube_url": "https://www.youtube.com/watch?v=Z7hReOZA1E4"
+  },
   "latest_safe_action": "Updated homepage, offer page, and public proof ledger to the current verified public Short and latest YouTube metrics; no new asset pile.",
   "notes": "Clean public staging copied from Product Picker Lite landing folder; backup files excluded; canonical/sitemap host rewritten to drferaru.github.io.",
   "pages": [
@@ -127,34 +206,5 @@
   "source": "/Users/loosh/clawd/socials-youtube-aiasmr/products/tiktok_shop_china_sourcing_starter_pack/product_picker_lite_github_seo_landing",
   "stage": "/Users/loosh/.hermes/autonomous_runs/hourly_ceo_20260618T074045Z/product-picker-lite-public-site",
   "updated_at": "2026-06-22T12:28:10Z",
-  "updated_at_utc": "2026-06-19T17:55:00Z",
-  "latest_monitor_glow_proof": {
-    "title": "Monitor Glow After Midnight | Lucian Whisper ASMR #Shorts",
-    "video_id": "MjrfaxXCf7c",
-    "youtube_url": "https://www.youtube.com/watch?v=MjrfaxXCf7c",
-    "url": "https://drferaru.github.io/product-picker-lite/monitor-glow-after-midnight-short-proof.html",
-    "checked_at": "2026-06-21T13:49:58.346964Z",
-    "buyer_cta": "https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase",
-    "source_metrics": "/Users/loosh/clawd/socials-youtube-aiasmr/autonomous_runs/20260621_1349_aiasmr_viral_growth_metrics/youtube_metrics.json"
-  },
-  "last_updated_utc": "2026-06-22T12:28:10Z",
-  "latest_public_youtube_short": {
-    "title": "The Cat Checks The Rain First | Lucian Whisper ASMR #Shorts",
-    "video_id": "Z7hReOZA1E4",
-    "youtube_url": "https://www.youtube.com/watch?v=Z7hReOZA1E4",
-    "published_at": "2026-06-22T00:31:33Z",
-    "views": 1,
-    "likes": 0,
-    "comments": 0,
-    "metrics_path": "/Users/loosh/clawd/socials-youtube-aiasmr/autonomous_runs/20260622_1021_aiasmr_viral_growth_metrics/youtube_metrics.json",
-    "checked_at": "2026-06-22T10:21:42.660275+00:00"
-  },
-  "latest_duplicate_guard_proof_20260622": {
-    "url": "https://drferaru.github.io/product-picker-lite/cat-listened-back-short-proof.html",
-    "youtube_url": "https://www.youtube.com/watch?v=G0q-Lbh5A8A",
-    "video_id": "G0q-Lbh5A8A",
-    "checked_at": "2026-06-22T14:50:32.035308Z",
-    "source_api_proof": "/Users/loosh/clawd/socials-youtube-aiasmr/autonomous_runs/20260622_1345_ceo_deliverable_existing_public_youtube_proof/youtube_existing_public_verify_result.json",
-    "buyer_cta": "https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase"
-  }
+  "updated_at_utc": "2026-06-19T17:55:00Z"
 }

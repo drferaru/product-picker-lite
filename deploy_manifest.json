@@ -42,15 +42,16 @@
     "tiktok-shop-ugc-video-test-plan.html",
     "tiktok-shop-video-hooks-template.html",
     "typing-under-rain-window-short-proof.html",
-    "viral-growth-decision-log.html"
+    "viral-growth-decision-log.html",
+    "cat-listened-back-short-proof.html"
   ],
   "last_added_page": "tiktok-shop-ai-product-video-prompt-pack.html",
   "last_public_move": {
-    "path": "index.html + ai-asmr-public-proof-to-product-video-offer.html + public-proof-ledger.html",
-    "url": "https://drferaru.github.io/product-picker-lite/",
-    "intent": "Keep owned buyer-facing surfaces aligned with the actual latest public YouTube proof, flat early distribution, $1 checkout CTA, and no-near-duplicate gate."
+    "path": "index.html + public-proof-ledger.html + viral-growth-decision-log.html + cat-listened-back-short-proof.html",
+    "url": "https://drferaru.github.io/product-picker-lite/cat-listened-back-short-proof.html",
+    "intent": "Publish a live owned proof page for an already-public YouTube Short and duplicate-guard decision; keep buyer CTA live without creating more local assets."
   },
-  "last_updated": "2026-06-22T10:22:54Z",
+  "last_updated": "2026-06-22T14:50:32.035308Z",
   "latest_keyboard_rain_window_proof": {
     "buyer_cta": "https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase",
     "checked_at": "2026-06-21T12:53:00Z",
@@ -114,6 +115,11 @@
       "added_utc": "2026-06-22T07:04:10Z",
       "path": "viral-growth-decision-log.html",
       "purpose": "Public viral-growth decision log tying verified YouTube posting proof, flat metrics, and Product Picker Lite buyer CTA into one live surface"
+    },
+    {
+      "added_utc": "2026-06-22T14:50:32.035308Z",
+      "path": "cat-listened-back-short-proof.html",
+      "purpose": "Public proof page for Cat Listened Back YouTube Short and duplicate-guard no-repost decision"
     }
   ],
   "public_target": "https://drferaru.github.io/product-picker-lite/",
@@ -142,5 +148,13 @@
     "comments": 0,
     "metrics_path": "/Users/loosh/clawd/socials-youtube-aiasmr/autonomous_runs/20260622_1021_aiasmr_viral_growth_metrics/youtube_metrics.json",
     "checked_at": "2026-06-22T10:21:42.660275+00:00"
+  },
+  "latest_duplicate_guard_proof_20260622": {
+    "url": "https://drferaru.github.io/product-picker-lite/cat-listened-back-short-proof.html",
+    "youtube_url": "https://www.youtube.com/watch?v=G0q-Lbh5A8A",
+    "video_id": "G0q-Lbh5A8A",
+    "checked_at": "2026-06-22T14:50:32.035308Z",
+    "source_api_proof": "/Users/loosh/clawd/socials-youtube-aiasmr/autonomous_runs/20260622_1345_ceo_deliverable_existing_public_youtube_proof/youtube_existing_public_verify_result.json",
+    "buyer_cta": "https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase"
   }
 }

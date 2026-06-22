@@ -8,6 +8,7 @@
     "ai-product-video-test-pack-demo.html",
     "ai-product-video-test-pack-intake.html",
     "ai-product-video-test-pack.html",
+    "cat-listened-back-short-proof.html",
     "deploy_manifest.json",
     "index.html",
     "monitor-glow-after-midnight-short-proof.html",
@@ -41,9 +42,9 @@
     "tiktok-shop-supplier-reply-scorecard.html",
     "tiktok-shop-ugc-video-test-plan.html",
     "tiktok-shop-video-hooks-template.html",
+    "true-generative-product-video-standard.html",
     "typing-under-rain-window-short-proof.html",
-    "viral-growth-decision-log.html",
-    "cat-listened-back-short-proof.html"
+    "viral-growth-decision-log.html"
   ],
   "last_added_page": "tiktok-shop-ai-product-video-prompt-pack.html",
   "last_product_video_pivot_surface_update": {
@@ -97,11 +98,19 @@
     "updated_at": "2026-06-22T16:59:33.684433+00:00"
   },
   "last_public_move": {
-    "intent": "Publish a live owned proof page for an already-public YouTube Short and duplicate-guard decision; keep buyer CTA live without creating more local assets.",
-    "path": "index.html + public-proof-ledger.html + viral-growth-decision-log.html + cat-listened-back-short-proof.html",
-    "url": "https://drferaru.github.io/product-picker-lite/cat-listened-back-short-proof.html"
+    "intent": "Ship a live owned surface that exposes the true-generative product-video gate and routes buyers to the $67 test-pack/$1 scorecard while public product upload is approval-gated.",
+    "path": "true-generative-product-video-standard.html + ai-product-video-test-pack.html + public-proof-ledger.html + index.html",
+    "url": "https://drferaru.github.io/product-picker-lite/true-generative-product-video-standard.html"
   },
-  "last_updated": "2026-06-22T14:50:32.035308Z",
+  "last_true_generative_standard_surface_update": {
+    "local_review_asset": "/Users/loosh/clawd/socials-youtube-aiasmr/xai_runs/20260622_grok_levoit_true_product_video/levoit_grok_truegen_15s_captioned_voiceover_H264.mp4",
+    "page": "true-generative-product-video-standard.html",
+    "qa_score": "8/10",
+    "reason": "Public buyer-facing standard shipped while product upload is approval-gated; no additional local asset pile.",
+    "updated_at": "2026-06-22T21:44:27.098967+00:00",
+    "url": "https://drferaru.github.io/product-picker-lite/true-generative-product-video-standard.html"
+  },
+  "last_updated": "2026-06-22T21:44:27.098967+00:00",
   "last_updated_utc": "2026-06-22T12:28:10Z",
   "latest_duplicate_guard_proof_20260622": {
     "buyer_cta": "https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase",

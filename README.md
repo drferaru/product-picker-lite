@@ -1,5 +1,8 @@
 # Product Picker Lite
 
+Fast path: **[$9 TikTok Shop China Sourcing Starter Pack](https://drferaru.github.io/product-picker-lite/tiktok-shop-china-sourcing-starter-pack.html)**.
+
+
 Fast path: **[$1 TikTok Shop Product Picker Lite](https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase)**.
 
 Use it before buying samples, inventory, creator videos, or AI product-video tests. Public landing page: https://drferaru.github.io/product-picker-lite/one-dollar-tiktok-product-scorecard.html

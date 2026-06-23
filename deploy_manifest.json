@@ -98,7 +98,7 @@
     "updated_at": "2026-06-22T16:59:33.684433+00:00"
   },
   "last_public_move": {
-    "intent": "Refresh the live viral-growth gate with the 00:55 UTC YouTube API telemetry and preserve buyer CTAs without creating assets.",
+    "intent": "Customer-facing Product Picker Lite resource update.",
     "path": "viral-growth-decision-log.html + public-proof-ledger.html",
     "url": "https://drferaru.github.io/product-picker-lite/viral-growth-decision-log.html"
   },

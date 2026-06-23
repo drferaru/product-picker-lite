@@ -33,4 +33,4 @@ Checkout: https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purch
 
 ## Customer-facing promise
 
-This is an educational planning resource. It does not guarantee sales, platform approval, affiliate revenue, supplier quality, or ad performance. The goal is to help sellers kill weak ideas early and test stronger ideas with clearer short-form creative.
+This is an educational planning resource. It does not guarantee sales, platform acceptance, affiliate revenue, supplier quality, or ad performance. The goal is to help sellers kill weak ideas early and test stronger ideas with clearer short-form creative.

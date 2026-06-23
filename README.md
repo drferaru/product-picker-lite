@@ -1,5 +1,10 @@
 # Product Picker Lite
 
+Fast path: **[$1 TikTok Shop Product Picker Lite](https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase)**.
+
+Use it before buying samples, inventory, creator videos, or AI product-video tests. Public landing page: https://drferaru.github.io/product-picker-lite/one-dollar-tiktok-product-scorecard.html
+
+
 Product Picker Lite is a $1 pre-sample scorecard for evaluating TikTok Shop product ideas before supplier outreach, sample spend, inventory, or content production.
 
 Live site: https://drferaru.github.io/product-picker-lite/

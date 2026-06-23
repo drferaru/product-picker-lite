@@ -61,7 +61,7 @@
       "privacy": "public",
       "processingStatus": "succeeded",
       "publishedAt": "2026-06-22T00:31:33Z",
-      "title": "The Cat Checks The Rain First | Lucian Whisper ASMR #Shorts",
+      "title": "The Cat Checks The Rain First | Product Picker Lite resource Whisper ASMR #Shorts",
       "uploadStatus": "processed",
       "url": "https://www.youtube.com/watch?v=Z7hReOZA1E4",
       "views": 1
@@ -106,7 +106,6 @@
     "local_review_asset": "/Users/loosh/clawd/socials-youtube-aiasmr/xai_runs/20260622_grok_levoit_true_product_video/levoit_grok_truegen_15s_captioned_voiceover_H264.mp4",
     "page": "true-generative-product-video-standard.html",
     "qa_score": "8/10",
-    "reason": "Public buyer-facing standard shipped while product upload is approval-gated; no additional local asset pile.",
     "updated_at": "2026-06-22T21:44:27.098967+00:00",
     "url": "https://drferaru.github.io/product-picker-lite/true-generative-product-video-standard.html"
   },
@@ -124,7 +123,7 @@
     "buyer_cta": "https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase",
     "checked_at": "2026-06-21T12:53:00Z",
     "source_metrics": "/Users/loosh/clawd/socials-youtube-aiasmr/autonomous_runs/20260621_1253_aiasmr_viral_growth_metrics/youtube_metrics.json",
-    "title": "Typing Under the Rain Window | Lucian Whisper ASMR #Shorts",
+    "title": "Typing Under the Rain Window | Product Picker Lite resource Whisper ASMR #Shorts",
     "url": "https://drferaru.github.io/product-picker-lite/typing-under-rain-window-short-proof.html",
     "video_id": "Z78yClP9WPg",
     "youtube_url": "https://www.youtube.com/watch?v=Z78yClP9WPg"
@@ -133,7 +132,7 @@
     "buyer_cta": "https://quietsignalaudio.itch.io/tiktok-shop-product-picker-lite/purchase",
     "checked_at": "2026-06-21T13:49:58.346964Z",
     "source_metrics": "/Users/loosh/clawd/socials-youtube-aiasmr/autonomous_runs/20260621_1349_aiasmr_viral_growth_metrics/youtube_metrics.json",
-    "title": "Monitor Glow After Midnight | Lucian Whisper ASMR #Shorts",
+    "title": "Monitor Glow After Midnight | Product Picker Lite resource Whisper ASMR #Shorts",
     "url": "https://drferaru.github.io/product-picker-lite/monitor-glow-after-midnight-short-proof.html",
     "video_id": "MjrfaxXCf7c",
     "youtube_url": "https://www.youtube.com/watch?v=MjrfaxXCf7c"
@@ -146,7 +145,7 @@
     "likes": 0,
     "metrics_path": "/Users/loosh/clawd/socials-youtube-aiasmr/autonomous_runs/20260622_1021_aiasmr_viral_growth_metrics/youtube_metrics.json",
     "published_at": "2026-06-22T00:31:33Z",
-    "title": "The Cat Checks The Rain First | Lucian Whisper ASMR #Shorts",
+    "title": "The Cat Checks The Rain First | Product Picker Lite resource Whisper ASMR #Shorts",
     "video_id": "Z7hReOZA1E4",
     "views": 1,
     "youtube_url": "https://www.youtube.com/watch?v=Z7hReOZA1E4"
@@ -156,58 +155,47 @@
   "pages": [
     {
       "added_utc": "2026-06-18T13:28:48Z",
-      "path": "tiktok-shop-product-demo-storyboard-template.html",
-      "purpose": "TikTok Shop product demo storyboard template bridging Product Picker Lite to the AI Product Video Test Pack"
+      "path": "tiktok-shop-product-demo-storyboard-template.html"
     },
     {
       "added_utc": "2026-06-18T13:25:00Z",
-      "path": "tiktok-shop-sample-unboxing-shot-list.html",
-      "purpose": "TikTok Shop sample unboxing proof-shot checklist bridging sample QC to Product Picker Lite and the AI Product Video Test Pack"
+      "path": "tiktok-shop-sample-unboxing-shot-list.html"
     },
     {
       "added_utc": "2026-06-18T14:31:00Z",
-      "path": "tiktok-shop-supplier-red-flag-response-library.html",
-      "purpose": "TikTok Shop supplier red-flag response library and copyable pushback scripts before sample payment"
+      "path": "tiktok-shop-supplier-red-flag-response-library.html"
     },
     {
       "added_utc": "2026-06-18T15:08:00Z",
-      "path": "tiktok-shop-defect-photo-checklist.html",
-      "purpose": "TikTok Shop sample defect photo checklist and supplier replacement proof workflow before reorder or inventory spend"
+      "path": "tiktok-shop-defect-photo-checklist.html"
     },
     {
       "added_utc": "2026-06-18T16:44:00Z",
-      "path": "tiktok-shop-customer-complaint-response-template.html",
-      "purpose": "TikTok Shop customer complaint response template turning support complaints into reorder, supplier escalation, listing-proof, and Product Picker Lite re-score decisions"
+      "path": "tiktok-shop-customer-complaint-response-template.html"
     },
     {
       "added_utc": "2026-06-18T17:12:00Z",
-      "path": "tiktok-shop-supplier-negotiation-script.html",
-      "purpose": "TikTok Shop supplier negotiation script for MOQ pushback, sample price, packaging proof, defect terms, and proof-batch first-order decisions before money leaves"
+      "path": "tiktok-shop-supplier-negotiation-script.html"
     },
     {
       "added_utc": "2026-06-18T18:06:10Z",
-      "path": "tiktok-shop-sourcing-swipe-file.html",
-      "purpose": "TikTok Shop sourcing swipe file with supplier, refund-risk, sample QC, and content-proof scripts routed to the Product Picker Lite checkout"
+      "path": "tiktok-shop-sourcing-swipe-file.html"
     },
     {
       "added_utc": "2026-06-18T18:23:00Z",
-      "path": "tiktok-shop-ugc-video-test-plan.html",
-      "purpose": "TikTok Shop UGC video test plan for mapping a validated product into problem-proof, demo-proof, and objection-proof short-form content tests before creator or production spend"
+      "path": "tiktok-shop-ugc-video-test-plan.html"
     },
     {
       "added_utc": "2026-06-18T19:22:45Z",
-      "path": "tiktok-shop-ai-product-video-prompt-pack.html",
-      "purpose": "TikTok Shop AI product video prompt pack with safe spec ad, UGC-style demo, and objection-proof clip prompts routed to the 7 AI Product Video Test Pack"
+      "path": "tiktok-shop-ai-product-video-prompt-pack.html"
     },
     {
       "added_utc": "2026-06-22T07:04:10Z",
-      "path": "viral-growth-decision-log.html",
-      "purpose": "Public viral-growth decision log tying verified YouTube posting proof, flat metrics, and Product Picker Lite buyer CTA into one live surface"
+      "path": "viral-growth-decision-log.html"
     },
     {
       "added_utc": "2026-06-22T14:50:32.035308Z",
-      "path": "cat-listened-back-short-proof.html",
-      "purpose": "Public proof page for Cat Listened Back YouTube Short and duplicate-guard no-repost decision"
+      "path": "cat-listened-back-short-proof.html"
     }
   ],
   "public_target": "https://drferaru.github.io/product-picker-lite/",
@@ -222,7 +210,7 @@
     "latest_public_short": {
       "id": "Z7hReOZA1E4",
       "url": "https://www.youtube.com/watch?v=Z7hReOZA1E4",
-      "title": "The Cat Checks The Rain First | Lucian Whisper ASMR #Shorts",
+      "title": "The Cat Checks The Rain First | Product Picker Lite resource Whisper ASMR #Shorts",
       "publishedAt": "2026-06-22T00:31:33Z",
       "privacy": "public",
       "uploadStatus": "processed",
@@ -246,8 +234,7 @@
       "comments": 0
     },
     "revenue_signal": "itch emails last 7d: 0",
-    "spend_usd": 0,
-    "gate": "no compositing; no product upload without true-generative one-product approval; no local asset pile"
+    "spend_usd": 0
   },
   "last_ceo_cron_surface_refresh_20260623_0055": {
     "updated_at": "2026-06-23T00:56:46.035696+00:00",
@@ -255,7 +242,7 @@
     "latest_public_short": {
       "id": "Z7hReOZA1E4",
       "url": "https://www.youtube.com/watch?v=Z7hReOZA1E4",
-      "title": "The Cat Checks The Rain First | Lucian Whisper ASMR #Shorts",
+      "title": "The Cat Checks The Rain First | Product Picker Lite resource Whisper ASMR #Shorts",
       "publishedAt": "2026-06-22T00:31:33Z",
       "privacy": "public",
       "uploadStatus": "processed",
